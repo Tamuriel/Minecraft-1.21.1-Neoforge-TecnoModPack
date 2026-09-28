@@ -1,0 +1,9 @@
+{
+  "source_item": "moredelight:toast_with_honey",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04,
+    "grains": 0.01
+  }
+}

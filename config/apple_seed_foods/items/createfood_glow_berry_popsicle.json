@@ -1,0 +1,10 @@
+{
+  "source_item": "createfood:glow_berry_popsicle",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.022,
+    "fruits": 0.095,
+    "vegetables": 0.04
+  }
+}

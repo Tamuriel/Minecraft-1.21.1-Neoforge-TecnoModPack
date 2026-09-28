@@ -1,0 +1,33 @@
+{
+  "cold_sweat:filled_waterskin": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:filled_waterskin"
+          ]
+        }
+      },
+      "temperature": "{item:cold_sweat:temperature}",
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "adea8643-0961-4253-94bd-4d2e6a7e879d"
+    }
+  ],
+  "cold_sweat:soul_sprout": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:soul_sprout"
+          ]
+        }
+      },
+      "temperature": -20.0,
+      "duration": 1200,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "0ea59af8-c621-4415-9a28-f8e4f2e403d2"
+    }
+  ]
+}

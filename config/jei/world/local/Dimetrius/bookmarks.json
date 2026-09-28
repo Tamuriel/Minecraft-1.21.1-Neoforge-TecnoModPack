@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:cobblestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexscaves:hazmat_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:apple"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,10 @@
+{
+  "source_item": "minecolonies:congee",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0026,
+    "fruits": 0.0102,
+    "vegetables": 0.0051
+  }
+}

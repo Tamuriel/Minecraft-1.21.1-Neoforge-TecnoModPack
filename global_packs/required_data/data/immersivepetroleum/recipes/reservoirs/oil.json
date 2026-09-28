@@ -1,0 +1,44 @@
+{
+  "type": "immersivepetroleum:reservoirs",
+  "biomes": {
+    "isBlacklist": true,
+    "list": [
+      "minecraft:ocean",
+      "minecraft:deep_ocean",
+      "minecraft:cold_ocean",
+      "minecraft:deep_cold_ocean",
+      "minecraft:frozen_ocean",
+      "minecraft:deep_frozen_ocean",
+      "minecraft:lukewarm_ocean",
+      "minecraft:deep_lukewarm_ocean",
+      "minecraft:warm_ocean",
+      "hadal_depths:abyssal_ocean",
+      "biomeswevegone:dead_sea",
+      "biomeswevegone:lush_stacks",
+      "hybrid_aquatic:cold_trench",
+      "hybrid_aquatic:coral_reef",
+      "hybrid_aquatic:deep_coral_reef",
+      "hybrid_aquatic:deep_warm_ocean",
+      "hybrid_aquatic:frozen_trench",
+      "hybrid_aquatic:lukewarm_trench",
+      "hybrid_aquatic:red_meadow",
+      "hybrid_aquatic:seagrass_bed",
+      "hybrid_aquatic:tide_pools",
+      "hybrid_aquatic:trench",
+      "hybrid_aquatic:tropical_deep_coral_reef",
+      "hybrid_aquatic:warm_trench",
+      "create_abyss:abyss"
+    ]
+  },
+  "dimensions": {
+    "isBlacklist": true,
+    "list": ["minecraft:the_end"]
+  },
+  "equilibrium": 0,
+  "fluid": "immersivepetroleum:crudeoil",
+  "fluidcapacity": 2000000,
+  "fluidminimum": 100000,
+  "fluidtrace": 6,
+  "name": "oil",
+  "weight": 40
+}

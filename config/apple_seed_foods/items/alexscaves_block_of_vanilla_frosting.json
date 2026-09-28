@@ -1,0 +1,8 @@
+{
+  "source_item": "alexscaves:block_of_vanilla_frosting",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0025
+  }
+}

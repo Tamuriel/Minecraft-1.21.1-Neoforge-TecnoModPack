@@ -1,0 +1,9 @@
+{
+  "source_item": "farmersdelight:sweet_berry_cheesecake_slice",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.0225,
+    "grains": 0.0025
+  }
+}

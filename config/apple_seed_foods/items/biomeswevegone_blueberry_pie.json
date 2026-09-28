@@ -1,0 +1,8 @@
+{
+  "source_item": "biomeswevegone:blueberry_pie",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.02
+  }
+}

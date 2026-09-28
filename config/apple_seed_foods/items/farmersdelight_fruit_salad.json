@@ -1,0 +1,9 @@
+{
+  "source_item": "farmersdelight:fruit_salad",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.04,
+    "vegetables": 0.0068
+  }
+}

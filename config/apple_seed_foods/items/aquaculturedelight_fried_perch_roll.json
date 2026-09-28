@@ -1,0 +1,12 @@
+{
+  "source_item": "aquaculturedelight:fried_perch_roll",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 6.0E-4,
+    "fruits": 0.0026,
+    "proteins": 0.015,
+    "vegetables": 0.0013,
+    "grains": 0.005
+  }
+}

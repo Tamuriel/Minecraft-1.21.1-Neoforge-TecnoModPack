@@ -1,0 +1,3 @@
+#
+#Mon Jul 13 06:04:22 VLAT 2026
+shaderPack=ComplementaryReimagined_r5.8.1.zip

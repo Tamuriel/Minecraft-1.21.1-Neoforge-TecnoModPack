@@ -1,0 +1,45 @@
+[
+  {
+    "id": "starter_coal",
+    "blocks": [
+      "minecraft:coal_ore",
+      "minecraft:deepslate_coal_ore"
+    ],
+    "keep_chance": 0.35,
+    "priority": 1
+  },
+  {
+    "id": "starter_iron",
+    "blocks": [
+      "minecraft:iron_ore",
+      "minecraft:deepslate_iron_ore"
+    ],
+    "keep_chance": 0.33,
+    "priority": 1
+  },
+  {
+    "id": "micro_starter_metals",
+    "blocks": [
+      "minecraft:copper_ore",
+      "minecraft:deepslate_copper_ore",
+      "minecraft:redstone_ore",
+      "create:zinc_ore",
+      "create:deepslate_zinc_ore",
+      "createpropulsion:platinum_ore",
+      "createpropulsion:deepslate_platinum_ore",
+      "minecraft:gold_ore",
+      "minecraft:deepslate_gold_ore"
+    ],
+    "keep_chance": 0.23,
+    "priority": 1
+  },
+  {
+    "id": "diamond",
+    "blocks": [
+      "minecraft:diamond_ore",
+      "minecraft:deepslate_diamond_ore"
+    ],
+    "keep_chance": 0.12,
+    "priority": 1
+  }
+  ]

@@ -1,0 +1,10 @@
+{
+  "source_item": "veggiesdelight:beetroot_brownie",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.01,
+    "fruits": 0.005,
+    "grains": 0.0025
+  }
+}

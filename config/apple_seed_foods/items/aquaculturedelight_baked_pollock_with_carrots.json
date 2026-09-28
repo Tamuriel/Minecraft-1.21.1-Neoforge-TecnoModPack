@@ -1,0 +1,8 @@
+{
+  "source_item": "aquaculturedelight:baked_pollock_with_carrots",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "vegetables": 0.02
+  }
+}

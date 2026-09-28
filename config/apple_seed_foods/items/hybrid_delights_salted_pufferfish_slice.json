@@ -1,0 +1,9 @@
+{
+  "source_item": "hybrid_delights:salted_pufferfish_slice",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 3.0E-4,
+    "proteins": 0.01
+  }
+}

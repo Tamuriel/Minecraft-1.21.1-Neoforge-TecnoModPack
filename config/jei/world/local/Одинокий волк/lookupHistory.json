@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"immersiveengineering:stick_aluminum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:alu_scaffolding_standard"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

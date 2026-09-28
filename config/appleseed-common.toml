@@ -1,0 +1,154 @@
+#General Settings
+[General_Settings]
+	#非食物/流体物品配方链的最大递归搜索深度，默认3。
+	#0表示不递归处理非食物/流体物品。
+	#更高的值意味着自动计算能覆盖更多配方，但可能造成性能下降。
+	#Control the maximum recursive search depth for non food items.
+	#0 means no recursive search.
+	#The higher value means more recipes will be searched. But it may affect performance.
+	#Default: 3
+	# Default: 3
+	# Range: 0 ~ 100
+	craft_chain_search_depth = 10
+	#控制饱食度满时食用食物是否还计算营养值，默认false
+	#Control whether to calculate nutrition when the player is full, default false.
+	ignore_hunger = false
+	#控制膳食均衡入口按钮的可见性
+	#可选值: invisible（不显示入口）, default（物品栏按钮）, ftb_compact（FTB Library侧边栏按钮，需安装FTB Library）
+	#非法值将自动回退为 default
+	#Control the visibility of the diet balance button in the inventory.
+	#Available values: invisible, default, ftb_compat
+	#Default: default
+	entrance_visibility = "default"
+
+#预设营养素字段覆盖
+#可在此覆盖5种预设营养素(grains/fruits/vegetables/proteins/sugars)的以下字段：
+#is_negative - 是否为负面营养素（按配方计算食物营养值时忽略此营养素）
+#ignore_attack - 受到攻击时该营养素是否不减少
+#ignore_hunger - 饱食度降低时该营养素是否不减少（注意：与上方General_Settings中的全局ignore_hunger语义不同，此处仅控制衰减行为）
+#ignore_saturation - 饱和度降低时该营养素是否不减少
+#
+#Group Override Settings:
+#Override fields for the 5 preset nutrition groups (grains/fruits/vegetables/proteins/sugars):
+#is_negative - Whether this is a negative nutrition (ignored when calculating food nutrition via recipe).
+#ignore_attack - Whether this nutrition does not decay when the player takes damage.
+#ignore_hunger - Whether this nutrition does not decay when hunger decreases.
+#ignore_saturation - Whether this nutrition does not decay when saturation decreases.
+#Note: The ignore_hunger here is different from the global ignore_hunger in General_Settings; it only controls decay behavior.
+[Group_Overrides]
+	#覆盖谷物的 is_negative 字段
+	#Override grains is_negative field.
+	grains_is_negative = false
+	#覆盖谷物的 ignore_attack 字段
+	#Override grains ignore_attack field.
+	grains_ignore_attack = false
+	#覆盖谷物的 ignore_hunger 字段
+	#Override grains ignore_hunger field.
+	grains_ignore_hunger = false
+	#覆盖谷物的 ignore_saturation 字段
+	#Override grains ignore_saturation field.
+	grains_ignore_saturation = false
+	#覆盖水果的 is_negative 字段
+	#Override fruits is_negative field.
+	fruits_is_negative = false
+	#覆盖水果的 ignore_attack 字段
+	#Override fruits ignore_attack field.
+	fruits_ignore_attack = false
+	#覆盖水果的 ignore_hunger 字段
+	#Override fruits ignore_hunger field.
+	fruits_ignore_hunger = false
+	#覆盖水果的 ignore_saturation 字段
+	#Override fruits ignore_saturation field.
+	fruits_ignore_saturation = false
+	#覆盖蔬菜的 is_negative 字段
+	#Override vegetables is_negative field.
+	vegetables_is_negative = false
+	#覆盖蔬菜的 ignore_attack 字段
+	#Override vegetables ignore_attack field.
+	vegetables_ignore_attack = false
+	#覆盖蔬菜的 ignore_hunger 字段
+	#Override vegetables ignore_hunger field.
+	vegetables_ignore_hunger = false
+	#覆盖蔬菜的 ignore_saturation 字段
+	#Override vegetables ignore_saturation field.
+	vegetables_ignore_saturation = false
+	#覆盖蛋白质的 is_negative 字段
+	#Override proteins is_negative field.
+	proteins_is_negative = false
+	#覆盖蛋白质的 ignore_attack 字段
+	#Override proteins ignore_attack field.
+	proteins_ignore_attack = false
+	#覆盖蛋白质的 ignore_hunger 字段
+	#Override proteins ignore_hunger field.
+	proteins_ignore_hunger = false
+	#覆盖蛋白质的 ignore_saturation 字段
+	#Override proteins ignore_saturation field.
+	proteins_ignore_saturation = false
+	#覆盖糖类的 is_negative 字段
+	#Override sugars is_negative field.
+	sugars_is_negative = false
+	#覆盖糖类的 ignore_attack 字段
+	#Override sugars ignore_attack field.
+	sugars_ignore_attack = false
+	#覆盖糖类的 ignore_hunger 字段
+	#Override sugars ignore_hunger field.
+	sugars_ignore_hunger = false
+	#覆盖糖类的 ignore_saturation 字段
+	#Override sugars ignore_saturation field.
+	sugars_ignore_saturation = false
+
+#Nutritions Settings
+[Nutritions_Settings]
+	#糖类初始营养值设置 默认50%
+	#Sugars initial nutrition value. Default: 50%
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	sugars_initial = 0.3
+	#蛋白质初始营养值设置 默认50%
+	#Proteins initial nutrition value. Default: 50%
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	proteins_initial = 0.3
+	#蔬菜初始营养值设置 默认50%
+	#Vegetables initial nutrition value. Default: 50%
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	vegetables_initial = 0.3
+	#谷物初始营养值设置 默认50%
+	#Grains initial nutrition value. Default: 50%
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	grains_initial = 0.3
+	#水果初始营养值设置 默认50%
+	#Fruits initial nutrition value. Default: 50%
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	fruits_initial = 0.3
+
+	#效果范围覆盖设置
+	#注意：效果范围配置现在默认从营养素数据文件读取。
+	#如需覆盖，请删除前面的注释并取消#号注释并配置列表。
+	#示例：grains_ranges = ["0-25:effect(minecraft:slowness,0)"]
+	#优先级：此处配置（非注释且非空时） > 营养素数据文件配置
+	#
+	#Effect Range Override Settings:
+	#Effect ranges are loaded from nutrition group data files by default.
+	#To override, remove the comment markers above and configure the list.
+	#Example: grains_ranges = ["0-25:effect(minecraft:slowness,0)"]
+	#Priority: config file (when not commented) > nutrition group data file
+	[Nutritions_Settings.Effects_Override]
+		#谷物营养值奖励节点设置 - 默认使用数据文件配置
+		#Grains effect range settings. Uses data file config by default.
+		grains_ranges = []
+		#水果营养值奖励节点设置 - 默认使用数据文件配置
+		#Fruits effect range settings. Uses data file config by default.
+		fruits_ranges = []
+		#蔬菜营养值奖励节点设置 - 默认使用数据文件配置
+		#Vegetables effect range settings. Uses data file config by default.
+		vegetables_ranges = []
+		#蛋白质营养值奖励节点设置 - 默认使用数据文件配置
+		#Proteins effect range settings. Uses data file config by default.
+		proteins_ranges = []
+		#糖类营养值奖励节点设置 - 默认使用数据文件配置
+		#Sugars effect range settings. Uses data file config by default.
+		sugars_ranges = []

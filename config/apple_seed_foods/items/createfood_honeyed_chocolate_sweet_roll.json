@@ -1,0 +1,8 @@
+{
+  "source_item": "createfood:honeyed_chocolate_sweet_roll",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.04
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:scoria"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tfmg:lead_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tfmg:raw_lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tfmg:galena"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sweet_berries"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:blueberry"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"otbwgdelight:fruitful_salad"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:bar_of_dark_chocolate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:onion"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:apple_sapling"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:orange_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:peach"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:apple_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

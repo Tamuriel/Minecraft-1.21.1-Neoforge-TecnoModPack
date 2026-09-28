@@ -1,0 +1,9 @@
+{
+  "source_item": "minecraft:mushroom_stew",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "proteins": 0.02,
+    "vegetables": 0.02
+  }
+}

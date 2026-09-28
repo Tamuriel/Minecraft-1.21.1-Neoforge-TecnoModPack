@@ -1,0 +1,12 @@
+{
+  "source_item": "alexscaves:alex_meal",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0413,
+    "fruits": 0.0051,
+    "proteins": 0.04,
+    "vegetables": 0.0526,
+    "grains": 0.005
+  }
+}

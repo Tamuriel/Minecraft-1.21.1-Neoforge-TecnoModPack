@@ -1,0 +1,9 @@
+{
+  "source_item": "farmersdelight:stuffed_potato",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "vegetables": 0.03,
+    "grains": 0.005
+  }
+}

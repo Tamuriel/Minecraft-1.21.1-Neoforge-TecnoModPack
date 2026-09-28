@@ -1,0 +1,11 @@
+{
+  "source_item": "minecolonies:eggdrop_soup",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0013,
+    "fruits": 0.0051,
+    "proteins": 0.08,
+    "vegetables": 0.0026
+  }
+}

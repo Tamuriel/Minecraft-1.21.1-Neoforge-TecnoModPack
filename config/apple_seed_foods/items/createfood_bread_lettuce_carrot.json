@@ -1,0 +1,8 @@
+{
+  "source_item": "createfood:bread_lettuce_carrot",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "grains": 0.04
+  }
+}

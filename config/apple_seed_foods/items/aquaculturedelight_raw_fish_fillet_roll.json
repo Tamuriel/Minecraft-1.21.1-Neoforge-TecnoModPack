@@ -1,0 +1,10 @@
+{
+  "source_item": "aquaculturedelight:raw_fish_fillet_roll",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 6.0E-4,
+    "fruits": 0.0026,
+    "vegetables": 0.0013
+  }
+}

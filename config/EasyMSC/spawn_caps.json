@@ -1,0 +1,14 @@
+{
+  "hybrid_aquatic:shark": 6,
+  "hybrid_aquatic:fish": 18,
+  "hybrid_aquatic:cephalopod": 8,
+  "water_creature": 10,
+  "hybrid_aquatic:crustacean": 6,
+  "hybrid_aquatic:mammal": 4,
+  "hybrid_aquatic:critter": 30,
+  "underground_water_creature": 10,
+  "hybrid_aquatic:jelly": 7,
+  "ambient": 18,
+  "hybrid_aquatic:river_fish": 12,
+  "water_ambient": 30
+}

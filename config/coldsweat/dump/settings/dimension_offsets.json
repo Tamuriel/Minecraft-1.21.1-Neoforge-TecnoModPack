@@ -1,0 +1,30 @@
+{
+  "minecraft:the_nether": {
+    "max_temp": 32.0,
+    "units": "f",
+    "is_offset": true,
+    "dimensions": {
+      "require": [
+        "minecraft:the_nether"
+      ]
+    },
+    "min_temp": 32.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c34273af-e96a-4742-a8a8-b45f3bcb582d"
+  },
+  "minecraft:the_end": {
+    "max_temp": -5.0,
+    "units": "f",
+    "is_offset": true,
+    "dimensions": {
+      "require": [
+        "minecraft:the_end"
+      ]
+    },
+    "min_temp": -5.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "2b769e96-f3db-4eff-b083-1d03621e1f44"
+  }
+}

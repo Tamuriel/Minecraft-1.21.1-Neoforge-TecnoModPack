@@ -1,0 +1,10 @@
+{
+  "source_item": "minecolonies:veggie_quiche",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0025,
+    "fruits": 0.01,
+    "vegetables": 0.005
+  }
+}

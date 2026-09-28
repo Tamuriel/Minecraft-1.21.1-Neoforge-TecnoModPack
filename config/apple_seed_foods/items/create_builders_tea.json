@@ -1,0 +1,10 @@
+{
+  "source_item": "create:builders_tea",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.1602,
+    "fruits": 0.64,
+    "vegetables": 0.32
+  }
+}

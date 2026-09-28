@@ -1,0 +1,8 @@
+{
+  "source_item": "farmersdelight:kelp_roll_slice",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "vegetables": 0.01
+  }
+}

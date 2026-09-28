@@ -1,0 +1,10 @@
+{
+  "source_item": "createfood:mutton_stew_bowl",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0038,
+    "fruits": 0.0154,
+    "vegetables": 0.0077
+  }
+}

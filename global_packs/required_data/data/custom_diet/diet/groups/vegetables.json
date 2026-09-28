@@ -1,0 +1,15 @@
+{
+  "icon": "minecraft:carrot",
+  "color": "#32a852",
+  "order": 5,
+  "default_value": 0.5,
+  "gain_multiplier": 1.0,
+  "decay_multiplier": 1.0,
+  "beneficial": true,
+  "effects": [
+    "0-2:effect(minecraft:slowness,1)",
+    "0-2:effect(minecraft:weakness,0)",
+    "3-15:attribute(minecraft:generic.max_health,-4.0)",
+    "3-15:effect(minecraft:slowness,0)"
+  ]
+}

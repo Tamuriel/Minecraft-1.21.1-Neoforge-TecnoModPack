@@ -1,0 +1,14 @@
+{
+  "rocketnautics:deep_space": {
+    "max_temp": 0.0,
+    "dimensions": {
+      "require": [
+        "rocketnautics:deep_space"
+      ]
+    },
+    "min_temp": 0.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "d69fa51c-1c15-4d79-948d-6f5aed3134c8"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source_item": "createfood:apple_cream_chocolate_pastry",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": true,
+  "nutritions": {
+    "sugars": 0.0,
+    "proteins": 0.0,
+    "vegetables": 0.0,
+    "grains": 0.0,
+    "fruits": 0.0
+  }
+}

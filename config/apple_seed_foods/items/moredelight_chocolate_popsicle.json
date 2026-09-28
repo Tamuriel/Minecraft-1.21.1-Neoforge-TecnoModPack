@@ -1,0 +1,11 @@
+{
+  "source_item": "moredelight:chocolate_popsicle",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.02,
+    "fruits": 0.12,
+    "vegetables": 0.04,
+    "grains": 0.02
+  }
+}

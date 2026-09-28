@@ -1,0 +1,1208 @@
+{
+  "biomeswevegone:atacama_outback": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:atacama_outback"
+      ]
+    },
+    "min_temp": 60.0,
+    "max_temp": 108.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "41540462-ff64-42a5-90ba-fed7d224bd2e"
+  },
+  "biomeswevegone:redwood_thicket": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:redwood_thicket"
+      ]
+    },
+    "min_temp": 52.0,
+    "max_temp": 81.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "9a76b417-65f8-4aaa-a4b7-6b7a6572a685"
+  },
+  "biomeswevegone:cika_woods": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:cika_woods"
+      ]
+    },
+    "min_temp": 40.0,
+    "max_temp": 67.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "640df016-ba98-4b03-9054-80f476ec7656"
+  },
+  "biomeswevegone:araucaria_savanna": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:araucaria_savanna"
+      ]
+    },
+    "min_temp": 70.0,
+    "max_temp": 92.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "d5eb45a0-5a73-4e0c-aed6-c5599dcfe27c"
+  },
+  "minecraft:snowy_slopes": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:snowy_slopes"
+      ]
+    },
+    "min_temp": 24.0,
+    "max_temp": 32.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "277a802d-ee82-46e6-b649-e8d6316b4b7e"
+  },
+  "biomeswevegone:windswept_desert": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:windswept_desert"
+      ]
+    },
+    "min_temp": 60.0,
+    "max_temp": 108.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "937160f3-4851-421c-81d3-9066f5920abb"
+  },
+  "minecraft:old_growth_pine_taiga": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:old_growth_pine_taiga"
+      ]
+    },
+    "min_temp": 48.0,
+    "max_temp": 62.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "cce9b346-79c8-4011-a7cb-df8aeda89c45"
+  },
+  "minecraft:mushroom_fields": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:mushroom_fields"
+      ]
+    },
+    "min_temp": 61.0,
+    "max_temp": 84.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "6448047d-abc4-4df9-a423-0e581810089b"
+  },
+  "minecraft:taiga": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:taiga"
+      ]
+    },
+    "min_temp": 44.0,
+    "max_temp": 62.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "341b4359-5906-4316-b449-7594ad293801"
+  },
+  "biomeswevegone:fragment_jungle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:fragment_jungle"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 87.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "6e05fbbd-1df3-4a53-aa40-3e216b0272d2"
+  },
+  "minecraft:deep_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:deep_ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "433e9945-20a0-40b1-bc0e-2934cb3da1a2"
+  },
+  "biomeswevegone:mojave_desert": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:mojave_desert"
+      ]
+    },
+    "min_temp": 60.0,
+    "max_temp": 105.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "40df45c9-2f31-4847-b362-81afdd98085c"
+  },
+  "minecraft:eroded_badlands": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "minecraft:eroded_badlands"
+      ]
+    },
+    "min_temp": 88.0,
+    "max_temp": 120.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "a3763bb2-81e4-4f44-bd42-37e3fe7f0bc0"
+  },
+  "biomeswevegone:rugged_badlands": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "biomeswevegone:rugged_badlands"
+      ]
+    },
+    "min_temp": 72.0,
+    "max_temp": 100.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "54ff0213-3b3e-40d2-b014-67354763d24d"
+  },
+  "minecraft:frozen_river": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:frozen_river"
+      ]
+    },
+    "min_temp": 15.0,
+    "max_temp": 31.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "672fba3b-bebf-4310-a0be-2b857a6d1370"
+  },
+  "minecraft:cherry_grove": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:cherry_grove"
+      ]
+    },
+    "min_temp": 42.0,
+    "max_temp": 67.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "b5737e01-263a-485b-ae9b-1bbdc4a0a6e5"
+  },
+  "biomeswevegone:enchanted_tangle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:enchanted_tangle"
+      ]
+    },
+    "min_temp": 66.0,
+    "max_temp": 82.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "3ec58ff5-c327-4b76-a788-847ffed323f3"
+  },
+  "minecraft:sunflower_plains": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:sunflower_plains"
+      ]
+    },
+    "min_temp": 52.0,
+    "max_temp": 84.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "9935bb36-e914-416c-9934-6cfd7b2054a0"
+  },
+  "minecraft:birch_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:birch_forest"
+      ]
+    },
+    "min_temp": 47.0,
+    "max_temp": 77.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ef93aec1-4d1e-4ba2-acba-315aba4da4ba"
+  },
+  "biomeswevegone:zelkova_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:zelkova_forest"
+      ]
+    },
+    "min_temp": 44.0,
+    "max_temp": 61.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "aa4563bb-4df9-4b3c-8177-e27b8a64cb77"
+  },
+  "minecraft:windswept_hills": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:windswept_hills"
+      ]
+    },
+    "min_temp": 24.0,
+    "max_temp": 58.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "e1e7986e-ec41-44ef-9f7e-06e86c6dbd43"
+  },
+  "minecraft:wooded_badlands": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "minecraft:wooded_badlands"
+      ]
+    },
+    "min_temp": 80.0,
+    "max_temp": 108.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "443a12fc-806b-4a1a-ac4c-fec4b19d78c1"
+  },
+  "minecraft:bamboo_jungle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:bamboo_jungle"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 87.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "da2ec2ea-b985-4dcb-bad8-4371fe60ce28"
+  },
+  "biomeswevegone:forgotten_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:forgotten_forest"
+      ]
+    },
+    "min_temp": 62.0,
+    "max_temp": 78.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "8bb5ea86-0588-4299-a270-07816a09d2a6"
+  },
+  "biomeswevegone:white_mangrove_marshes": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "biomeswevegone:white_mangrove_marshes"
+      ]
+    },
+    "min_temp": 70.0,
+    "max_temp": 86.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "acfa7d33-317b-49e3-b255-c7168812de60"
+  },
+  "biomeswevegone:jacaranda_jungle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:jacaranda_jungle"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 87.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "19c3daec-b5a3-4ee6-af7e-90b1adb6af20"
+  },
+  "minecraft:badlands": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "minecraft:badlands"
+      ]
+    },
+    "min_temp": 84.0,
+    "max_temp": 120.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "6191d993-d9a0-4613-9651-7db0cc15638a"
+  },
+  "minecraft:savanna_plateau": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:savanna_plateau"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 98.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "8192cbc6-4cea-4853-a2ad-7079e2079810"
+  },
+  "minecraft:beach": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:beach"
+      ]
+    },
+    "min_temp": 52.0,
+    "max_temp": 84.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "e25e4e34-9d2b-48bd-9f1e-6ba8302918cb"
+  },
+  "minecraft:stony_peaks": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:stony_peaks"
+      ]
+    },
+    "min_temp": 60.0,
+    "max_temp": 94.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ad4b031a-b75b-4e58-bc35-deb796ebb433"
+  },
+  "minecraft:dark_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:dark_forest"
+      ]
+    },
+    "min_temp": 53.0,
+    "max_temp": 80.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ce87def4-23e4-40ff-8d0c-67865aed3ee6"
+  },
+  "biomeswevegone:red_rock_valley": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "biomeswevegone:red_rock_valley"
+      ]
+    },
+    "min_temp": 84.0,
+    "max_temp": 120.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "3ee83e11-5f91-40b4-90b0-d3ab7f9b28b9"
+  },
+  "biomeswevegone:firecracker_chaparral": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:firecracker_chaparral"
+      ]
+    },
+    "min_temp": 72.0,
+    "max_temp": 105.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "5aa51b46-66a3-4cb4-92d9-8a3b8085c518"
+  },
+  "minecraft:mangrove_swamp": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:mangrove_swamp"
+      ]
+    },
+    "min_temp": 56.0,
+    "max_temp": 80.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "53d28c60-4c99-44cb-a754-9a05d1a4f0b4"
+  },
+  "minecraft:sparse_jungle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:sparse_jungle"
+      ]
+    },
+    "min_temp": 62.0,
+    "max_temp": 87.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "4e887fea-a466-4ffc-bdae-5019296f9a00"
+  },
+  "minecraft:river": {
+    "disable": true,
+    "biomes": {
+      "require": [
+        "minecraft:river"
+      ]
+    },
+    "min_temp": 0.0,
+    "max_temp": 0.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "686bac33-7499-46b2-8a42-a77678439cfa"
+  },
+  "minecraft:lukewarm_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:lukewarm_ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "a587149f-579f-4953-b494-cce9dd02af0c"
+  },
+  "minecraft:stony_shore": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:stony_shore"
+      ]
+    },
+    "min_temp": 50.0,
+    "max_temp": 64.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "7b35a409-871f-4ddb-94f9-989622b04327"
+  },
+  "minecraft:snowy_plains": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:snowy_plains"
+      ]
+    },
+    "min_temp": 8.0,
+    "max_temp": 30.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "748ef0eb-e2ed-49bc-93dc-6627818f9c87"
+  },
+  "minecraft:snowy_taiga": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:snowy_taiga"
+      ]
+    },
+    "min_temp": 8.0,
+    "max_temp": 30.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "e2da51a4-64a7-4b97-ad59-b7db1fa21e13"
+  },
+  "minecraft:dripstone_caves": {
+    "disable": true,
+    "biomes": {
+      "require": [
+        "minecraft:dripstone_caves"
+      ]
+    },
+    "min_temp": 0.0,
+    "max_temp": 0.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "1fa05b8d-b5b0-4b0b-890b-f1755da3ac90"
+  },
+  "biomeswevegone:canadian_shield": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:canadian_shield"
+      ]
+    },
+    "min_temp": 38.0,
+    "max_temp": 62.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "0b83a8d9-4e9a-44b8-88e9-255df2e81131"
+  },
+  "biomeswevegone:black_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:black_forest"
+      ]
+    },
+    "min_temp": 46.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "496d7e1b-0eb5-4020-8ec8-30b19806cdf3"
+  },
+  "biomeswevegone:maple_taiga": {
+    "units": "c",
+    "water_temp": -12.0,
+    "biomes": {
+      "require": [
+        "biomeswevegone:maple_taiga"
+      ]
+    },
+    "min_temp": 15.0,
+    "max_temp": 18.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "d3210a87-fdd4-4572-8416-76483a3113be"
+  },
+  "biomeswevegone:cypress_swamplands": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:cypress_swamplands"
+      ]
+    },
+    "min_temp": 68.0,
+    "max_temp": 82.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "97dd285d-62b5-4457-8711-9b839f00767c"
+  },
+  "minecraft:swamp": {
+    "units": "f",
+    "water_temp": 5.0,
+    "biomes": {
+      "require": [
+        "minecraft:swamp"
+      ]
+    },
+    "min_temp": 72.0,
+    "max_temp": 84.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "79bbcc09-e5bc-4d4b-8f6c-05478291320f"
+  },
+  "minecraft:grove": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:grove"
+      ]
+    },
+    "min_temp": 10.0,
+    "max_temp": 36.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "56ae6c50-fa7d-4fa0-bb85-9acadb1bbfd5"
+  },
+  "minecraft:jagged_peaks": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:jagged_peaks"
+      ]
+    },
+    "min_temp": -11.0,
+    "max_temp": 12.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "94a3d750-90d8-4803-8ce5-5f65e0ec2a62"
+  },
+  "minecraft:cold_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:cold_ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "b9136bb9-bf75-48fd-97bb-1990d0bbc882"
+  },
+  "biomeswevegone:frosted_taiga": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:frosted_taiga"
+      ]
+    },
+    "min_temp": 19.0,
+    "max_temp": 48.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "5dcafa47-60fa-446c-b9be-cc677a82c1a9"
+  },
+  "biomeswevegone:orchard": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:orchard"
+      ]
+    },
+    "min_temp": 58.0,
+    "max_temp": 78.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "786fe062-9dae-46d3-a8f0-bf6973775cee"
+  },
+  "biomeswevegone:ironwood_gour": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:ironwood_gour"
+      ]
+    },
+    "min_temp": 69.0,
+    "max_temp": 90.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "620784dd-4bc0-4fb1-9acf-954c58aadc7e"
+  },
+  "minecraft:forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:forest"
+      ]
+    },
+    "min_temp": 51.0,
+    "max_temp": 76.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "f125dae4-0d91-4760-a43e-33a0f993767a"
+  },
+  "biomeswevegone:weeping_witch_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:weeping_witch_forest"
+      ]
+    },
+    "min_temp": 56.0,
+    "max_temp": 73.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ba61c2d3-2065-4e17-a863-ad986d642274"
+  },
+  "minecraft:lush_caves": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:lush_caves"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "4266863b-00c8-444d-97ae-e32369e52083"
+  },
+  "minecraft:deep_cold_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:deep_cold_ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c4af42da-b206-4a6e-825c-19b803d5a1b7"
+  },
+  "minecraft:ice_spikes": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:ice_spikes"
+      ]
+    },
+    "min_temp": 17.0,
+    "max_temp": 47.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "6509158b-bfe5-429b-8279-2861bf363bc5"
+  },
+  "minecraft:frozen_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:frozen_ocean"
+      ]
+    },
+    "min_temp": 15.0,
+    "max_temp": 31.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "bb8f405a-eca5-4913-980e-6a65701ac1f5"
+  },
+  "minecraft:desert": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:desert"
+      ]
+    },
+    "min_temp": 48.0,
+    "max_temp": 115.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "996da9e4-7a11-4d21-9c5e-d0454d98001e"
+  },
+  "minecraft:windswept_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:windswept_forest"
+      ]
+    },
+    "min_temp": 48.0,
+    "max_temp": 66.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "a146180d-b37e-4874-b7b2-f4c877fea919"
+  },
+  "biomeswevegone:prairie": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:prairie"
+      ]
+    },
+    "min_temp": 66.0,
+    "max_temp": 82.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "2c697fd5-ce62-40b8-92aa-38a53a9603dd"
+  },
+  "minecraft:deep_frozen_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:deep_frozen_ocean"
+      ]
+    },
+    "min_temp": 8.0,
+    "max_temp": 31.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "49f5aaae-1361-4be0-936f-808a000f207a"
+  },
+  "minecraft:jungle": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:jungle"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 89.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "da52d28f-6db3-436d-bdae-be2d21854b39"
+  },
+  "biomeswevegone:ebony_woods": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:ebony_woods"
+      ]
+    },
+    "min_temp": 64.0,
+    "max_temp": 75.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "528b908e-2789-4889-b9cd-4f228cc2a4d6"
+  },
+  "minecraft:ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "a754b115-5f1a-47ab-9b91-7e836427081a"
+  },
+  "minecraft:old_growth_spruce_taiga": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:old_growth_spruce_taiga"
+      ]
+    },
+    "min_temp": 48.0,
+    "max_temp": 62.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ed1f8ced-d811-4529-bd35-9285da1f93ba"
+  },
+  "minecraft:snowy_beach": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:snowy_beach"
+      ]
+    },
+    "min_temp": 8.0,
+    "max_temp": 30.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c6a35195-351b-489c-a73f-b921bf98a097"
+  },
+  "minecraft:windswept_savanna": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:windswept_savanna"
+      ]
+    },
+    "min_temp": 67.0,
+    "max_temp": 90.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "37a28c9d-bb85-4622-9971-850a915779d5"
+  },
+  "biomeswevegone:aspen_boreal": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:aspen_boreal"
+      ]
+    },
+    "min_temp": 48.0,
+    "max_temp": 68.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "f501e165-dff3-414b-903e-10cf49f9b40d"
+  },
+  "minecraft:warm_ocean": {
+    "units": "f",
+    "water_temp": 10.0,
+    "biomes": {
+      "require": [
+        "minecraft:warm_ocean"
+      ]
+    },
+    "min_temp": 67.0,
+    "max_temp": 76.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "ea69bf25-b6da-44c0-a16f-2ee687f8e576"
+  },
+  "minecraft:deep_lukewarm_ocean": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:deep_lukewarm_ocean"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "7d24bd5a-54a2-47a0-85be-3de8f8d9f377"
+  },
+  "biomeswevegone:dacite_ridges": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:dacite_ridges"
+      ]
+    },
+    "min_temp": 40.0,
+    "max_temp": 65.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "9a8c0198-95c1-4224-8d9e-bf3422b5cc01"
+  },
+  "biomeswevegone:frosted_coniferous_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:frosted_coniferous_forest"
+      ]
+    },
+    "min_temp": 10.0,
+    "max_temp": 31.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "525df6c2-7668-4723-8545-883ad64ca07d"
+  },
+  "minecraft:flower_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:flower_forest"
+      ]
+    },
+    "min_temp": 51.0,
+    "max_temp": 76.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "47f2e628-54d9-42d1-be60-d576f9659ca3"
+  },
+  "biomeswevegone:howling_peaks": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:howling_peaks"
+      ]
+    },
+    "min_temp": 15.0,
+    "max_temp": 33.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "4882bea1-d7d8-43c0-9715-56140ee7b5a3"
+  },
+  "minecraft:soul_sand_valley": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:soul_sand_valley"
+      ]
+    },
+    "min_temp": 53.0,
+    "max_temp": 53.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "6b9d2b29-ef7b-48c5-8d7e-691ddd5bffe6"
+  },
+  "biomeswevegone:allium_shrubland": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:allium_shrubland"
+      ]
+    },
+    "min_temp": 58.0,
+    "max_temp": 74.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "b531e02a-34bb-452c-a42d-2d0416dbdf2a"
+  },
+  "minecraft:frozen_peaks": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:frozen_peaks"
+      ]
+    },
+    "min_temp": 8.0,
+    "max_temp": 31.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c8255f9a-4d60-4bd3-a2f9-0883328aa940"
+  },
+  "minecraft:small_end_islands": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:small_end_islands"
+      ]
+    },
+    "min_temp": 39.0,
+    "max_temp": 70.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "30468c65-feb0-4e03-81b3-e6aa20a1be6b"
+  },
+  "minecraft:old_growth_birch_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:old_growth_birch_forest"
+      ]
+    },
+    "min_temp": 58.0,
+    "max_temp": 72.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "4522ff16-dd16-4672-9b8f-232a6069e6f3"
+  },
+  "biomeswevegone:pumpkin_valley": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:pumpkin_valley"
+      ]
+    },
+    "min_temp": 57.0,
+    "max_temp": 78.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "8074d6d5-3e77-4984-aeb9-b8aea3021d1b"
+  },
+  "biomeswevegone:tropical_rainforest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:tropical_rainforest"
+      ]
+    },
+    "min_temp": 76.0,
+    "max_temp": 87.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "b2edf0d1-7988-4a9b-b009-8318209becf1"
+  },
+  "minecraft:deep_dark": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:deep_dark"
+      ]
+    },
+    "min_temp": 63.0,
+    "max_temp": 63.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c66b649a-3b65-4e74-873a-f477843134bc"
+  },
+  "biomeswevegone:baobab_savanna": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:baobab_savanna"
+      ]
+    },
+    "min_temp": 70.0,
+    "max_temp": 95.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "fc2ac071-f167-47db-88ff-c10e3dae189e"
+  },
+  "minecraft:meadow": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:meadow"
+      ]
+    },
+    "min_temp": 42.0,
+    "max_temp": 67.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "33623c89-f32b-47dc-831b-d1530f7ee601"
+  },
+  "biomeswevegone:crimson_tundra": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:crimson_tundra"
+      ]
+    },
+    "min_temp": 20.0,
+    "max_temp": 38.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "12fb3175-163a-4433-9584-47aa3aed8e98"
+  },
+  "minecraft:windswept_gravelly_hills": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:windswept_gravelly_hills"
+      ]
+    },
+    "min_temp": 24.0,
+    "max_temp": 58.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "98d13c8a-cfa3-40e7-b3bf-68ab4223ddca"
+  },
+  "biomeswevegone:overgrowth_woodlands": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:overgrowth_woodlands"
+      ]
+    },
+    "min_temp": 62.0,
+    "max_temp": 78.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "64ea4cd1-d501-4654-9ca8-8acded4125a4"
+  },
+  "minecraft:savanna": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:savanna"
+      ]
+    },
+    "min_temp": 70.0,
+    "max_temp": 95.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "702413d5-536c-466f-a110-9bf9c8043c4e"
+  },
+  "minecraft:plains": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "minecraft:plains"
+      ]
+    },
+    "min_temp": 52.0,
+    "max_temp": 84.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "438a2632-ee28-4003-94c5-29aa302f51b2"
+  },
+  "biomeswevegone:coniferous_forest": {
+    "units": "f",
+    "biomes": {
+      "require": [
+        "biomeswevegone:coniferous_forest"
+      ]
+    },
+    "min_temp": 44.0,
+    "max_temp": 58.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "0bd69d71-4d1e-4985-8eb7-d8be339e1aaa"
+  },
+  "biomeswevegone:bayou": {
+    "units": "f",
+    "water_temp": -5.0,
+    "biomes": {
+      "require": [
+        "biomeswevegone:bayou"
+      ]
+    },
+    "min_temp": 67.0,
+    "max_temp": 86.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "c713a207-150a-4dee-9ebe-3520eebf24b5"
+  }
+}

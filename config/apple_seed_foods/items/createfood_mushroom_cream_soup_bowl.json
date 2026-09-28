@@ -1,0 +1,10 @@
+{
+  "source_item": "createfood:mushroom_cream_soup_bowl",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0013,
+    "fruits": 0.0051,
+    "vegetables": 0.0026
+  }
+}

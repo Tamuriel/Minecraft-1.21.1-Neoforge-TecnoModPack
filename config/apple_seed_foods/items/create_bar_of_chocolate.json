@@ -1,0 +1,8 @@
+{
+  "source_item": "create:bar_of_chocolate",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 2.0E-4
+  }
+}

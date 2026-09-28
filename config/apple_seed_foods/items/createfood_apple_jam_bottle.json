@@ -1,0 +1,8 @@
+{
+  "source_item": "createfood:apple_jam_bottle",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 2.0E-4
+  }
+}

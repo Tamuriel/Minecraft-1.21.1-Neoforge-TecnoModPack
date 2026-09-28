@@ -1,0 +1,28 @@
+#MineColonies
+[minecolonies]
+	Enable = true
+	# Default: 12000
+	# Range: 1 ~ 23999
+	AverageNightTime = 12000
+	# Default: 1000
+	# Range: -6000 ~ 6000
+	CheckSleepOffset = 1000
+
+#Macaw's Roofs
+[mcwroofs]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#Macaw's Bridges
+[mcwbridges]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#Domum Ornamentum
+[domum_ornamentum]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#InControl
+[incontrol]
+	Enable = true

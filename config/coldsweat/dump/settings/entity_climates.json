@@ -1,0 +1,182 @@
+{
+  "minecraft:mooshroom": [
+    {
+      "max_temp_offset": 20.0,
+      "rate": 0.2,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:mooshroom"
+          ]
+        }
+      },
+      "min_temp_offset": 0.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "7a0c3e58-1121-405f-b079-38938180de70"
+    }
+  ],
+  "minecraft:cow": [
+    {
+      "max_temp_offset": 20.0,
+      "rate": 0.2,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:cow"
+          ]
+        }
+      },
+      "min_temp_offset": 0.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "67db4083-4caa-4e59-a97e-a2a867180a67"
+    }
+  ],
+  "minecraft:goat": [
+    {
+      "max_temp_offset": -15.0,
+      "rate": 0.4,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:goat"
+          ]
+        }
+      },
+      "min_temp_offset": -40.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "9985af4a-7c15-4d0c-a99c-bfe43356ce87"
+    }
+  ],
+  "minecraft:chicken": [
+    {
+      "max_temp_offset": 10.0,
+      "rate": 0.6,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:chicken"
+          ]
+        }
+      },
+      "min_temp_offset": 10.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "77d739f3-91c4-4b0d-b2f7-b679ad68d5f7"
+    }
+  ],
+  "minecraft:donkey": [
+    {
+      "max_temp_offset": 10.0,
+      "rate": 0.3,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:donkey"
+          ]
+        }
+      },
+      "min_temp_offset": -5.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "0e277775-4b83-44a6-bb1a-18cba0413613"
+    }
+  ],
+  "minecraft:pig": [
+    {
+      "max_temp_offset": 0.0,
+      "rate": 0.5,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:pig"
+          ]
+        }
+      },
+      "min_temp_offset": 0.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "35d2adaf-ecf5-4b12-a865-40ab7d9cf635"
+    }
+  ],
+  "minecraft:llama": [
+    {
+      "max_temp_offset": 0.0,
+      "rate": 0.4,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:llama"
+          ]
+        }
+      },
+      "min_temp_offset": -10.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "37ef7230-133f-432f-8192-a42e36f38a81"
+    }
+  ],
+  "minecraft:horse": [
+    {
+      "max_temp_offset": 10.0,
+      "rate": 0.3,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:horse"
+          ]
+        }
+      },
+      "min_temp_offset": -5.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "28cf2dd6-6d57-4b95-ad92-9fe6adf056cf"
+    }
+  ],
+  "minecraft:sheep": [
+    {
+      "max_temp_offset": -10.0,
+      "rate": 0.3,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:sheep"
+          ]
+        }
+      },
+      "min_temp_offset": -20.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "fc26f517-0ab7-4749-a99b-1618e9e9928e"
+    }
+  ],
+  "minecraft:mule": [
+    {
+      "max_temp_offset": 10.0,
+      "rate": 0.3,
+      "units": "f",
+      "entity": {
+        "entities": {
+          "require": [
+            "minecraft:mule"
+          ]
+        }
+      },
+      "min_temp_offset": -5.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "d6835491-49d4-4a1e-acde-bc05c9b549a2"
+    }
+  ]
+}

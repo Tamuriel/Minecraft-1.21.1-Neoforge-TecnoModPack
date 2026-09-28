@@ -1,0 +1,425 @@
+{
+	id: "23A030D0854BAACF"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 3
+			id: "7AD7F6E303AB7904"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{
+			count: 3
+			id: "1BA34F89ABEED815"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+		}
+		{
+			count: 3
+			id: "69AD07DDB7B78FDA"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 3
+			id: "588B434B5DDE37F4"
+			item: {
+				count: 1
+				id: "minecraft:potato"
+			}
+		}
+		{
+			count: 3
+			id: "3337A2D9B5CF2AEE"
+			item: {
+				count: 1
+				id: "minecraft:baked_potato"
+			}
+		}
+		{
+			count: 3
+			id: "1AFC5AFF2AA4F716"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+		}
+		{
+			count: 3
+			id: "06CB602AE7214DCF"
+			item: {
+				count: 1
+				id: "minecraft:cooked_porkchop"
+			}
+		}
+		{
+			count: 3
+			id: "36D7BF3EE9DDB5B7"
+			item: {
+				count: 1
+				id: "minecraft:cooked_mutton"
+			}
+		}
+		{
+			count: 3
+			id: "560410FCE9EA813D"
+			item: {
+				count: 1
+				id: "minecraft:cooked_chicken"
+			}
+		}
+		{
+			count: 3
+			id: "222EFDF78DBFA213"
+			item: {
+				count: 1
+				id: "minecraft:cooked_rabbit"
+			}
+		}
+		{
+			count: 3
+			id: "204A94373C02B63F"
+			item: {
+				count: 1
+				id: "minecraft:cooked_cod"
+			}
+		}
+		{
+			count: 3
+			id: "76692899B70031E0"
+			item: {
+				count: 1
+				id: "minecraft:cooked_salmon"
+			}
+		}
+		{
+			count: 3
+			id: "1C4222A1A6A10572"
+			item: {
+				count: 1
+				id: "minecraft:sweet_berries"
+			}
+		}
+		{
+			count: 3
+			id: "215890E2F92C2730"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 3
+			id: "155D507B0BE72639"
+			item: {
+				count: 1
+				id: "minecraft:beetroot"
+			}
+		}
+		{
+			count: 3
+			id: "30EC7F7408E6BD31"
+			item: {
+				count: 1
+				id: "minecraft:dried_kelp"
+			}
+		}
+		{
+			id: "5F63FD6919D30170"
+			item: {
+				count: 1
+				id: "minecraft:cake"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "6386D0DB92605B32"
+			item: {
+				count: 1
+				id: "minecraft:cookie"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "0743AF5021F6BBD6"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_pie"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "758F3436B09ED29F"
+			item: {
+				count: 1
+				id: "minecraft:mushroom_stew"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "748839E47D3EB713"
+			item: {
+				count: 1
+				id: "minecraft:rabbit_stew"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "320FCF7E7932381D"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_soup"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "5617219EF3DE11E9"
+			item: {
+				count: 1
+				id: "minecraft:melon_slice"
+			}
+			weight: 0.25f
+		}
+		{
+			count: 16
+			id: "3C378A924145A041"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "4339844764A0052E"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+		}
+		{
+			count: 16
+			id: "6F59D1AA7D2C8A79"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 32
+			id: "0532BE2B81DB3138"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+		}
+		{ id: "4165EAE883B458B8", item: { count: 1, id: "minecraft:target" } }
+		{
+			count: 64
+			id: "2EF7704530FBD106"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+		}
+		{
+			count: 64
+			id: "24496CABFC01422D"
+			item: {
+				count: 1
+				id: "minecraft:granite"
+			}
+		}
+		{
+			count: 64
+			id: "047047CC939B1804"
+			item: {
+				count: 1
+				id: "minecraft:diorite"
+			}
+		}
+		{
+			count: 64
+			id: "69F4CC316EC2A9DB"
+			item: {
+				count: 1
+				id: "minecraft:andesite"
+			}
+		}
+		{ id: "07CA40AD964A9F17", item: { count: 1, id: "minecraft:furnace" } }
+		{ id: "701DBE83926F014F", item: { count: 1, id: "minecraft:blast_furnace" } }
+		{
+			count: 4
+			id: "252ED415C3879651"
+			item: {
+				count: 1
+				id: "minecraft:chest"
+			}
+		}
+		{
+			count: 8
+			id: "78CC857CD5C108D7"
+			item: {
+				count: 1
+				id: "minecraft:bricks"
+			}
+		}
+		{
+			count: 16
+			id: "6375DC17A15CF1B3"
+			item: {
+				count: 1
+				id: "minecraft:clay"
+			}
+		}
+		{
+			count: 16
+			id: "7C90CE72008E384A"
+			item: {
+				count: 1
+				id: "minecraft:terracotta"
+			}
+		}
+		{
+			count: 32
+			id: "1D0B5539B5C54904"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+		}
+		{ id: "3009AE89F682C8AA", item: { count: 1, id: "minecraft:white_bed" } }
+		{
+			count: 32
+			id: "0F3BB9FDA15483B5"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+		}
+		{
+			count: 2
+			id: "6366B8CB331DCE52"
+			item: {
+				count: 1
+				id: "minecraft:sheep_spawn_egg"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 64
+			id: "78E25A8837131C1A"
+			item: {
+				count: 1
+				id: "minecraft:oak_leaves"
+			}
+		}
+		{
+			count: 4
+			id: "20A0EFCC32DB7F57"
+			item: {
+				count: 1
+				id: "minecraft:white_dye"
+			}
+		}
+		{
+			count: 4
+			id: "7227ECB29021AB24"
+			item: {
+				count: 1
+				id: "minecraft:red_dye"
+			}
+		}
+		{
+			count: 4
+			id: "0EDB4525210D55B7"
+			item: {
+				count: 1
+				id: "minecraft:yellow_dye"
+			}
+		}
+		{
+			count: 4
+			id: "3ED94AECA4306D47"
+			item: {
+				count: 1
+				id: "minecraft:green_dye"
+			}
+		}
+		{
+			count: 4
+			id: "2A6ADB0095373D05"
+			item: {
+				count: 1
+				id: "minecraft:black_dye"
+			}
+		}
+		{
+			count: 4
+			id: "53517B8E297FFFBF"
+			item: {
+				count: 1
+				id: "minecraft:blue_dye"
+			}
+		}
+		{ id: "0AF260072C14B77A", item: { count: 1, id: "minecraft:armor_stand" } }
+		{
+			count: 4
+			id: "642AAE263A3E2188"
+			item: {
+				count: 1
+				id: "minecraft:flower_pot"
+			}
+		}
+		{ id: "4549298F39C5231B", item: { count: 1, id: "domum_ornamentum:blockbarreldeco_standing" } }
+		{ id: "2098952DFB0E2826", item: { count: 1, id: "domum_ornamentum:blockbarreldeco_onside" } }
+		{
+			count: 16
+			id: "130C3656D63D1F32"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 16
+			id: "3995EBC3D9DA284A"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+		{
+			count: 16
+			id: "4F4DBD302EF98C5A"
+			item: {
+				count: 1
+				id: "minecraft:kelp"
+			}
+		}
+		{
+			count: 2
+			id: "4F14FEEC9B678470"
+			item: {
+				count: 1
+				id: "minecraft:cow_spawn_egg"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "4C20A21E3038C679"
+			item: {
+				count: 1
+				id: "minecraft:pig_spawn_egg"
+			}
+			weight: 0.5f
+		}
+	]
+}

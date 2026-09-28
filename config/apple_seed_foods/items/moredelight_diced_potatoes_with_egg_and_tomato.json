@@ -1,0 +1,8 @@
+{
+  "source_item": "moredelight:diced_potatoes_with_egg_and_tomato",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "vegetables": 0.01
+  }
+}

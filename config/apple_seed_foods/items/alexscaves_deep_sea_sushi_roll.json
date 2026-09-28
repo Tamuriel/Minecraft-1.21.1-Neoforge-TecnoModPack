@@ -1,0 +1,8 @@
+{
+  "source_item": "alexscaves:deep_sea_sushi_roll",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "vegetables": 0.005
+  }
+}

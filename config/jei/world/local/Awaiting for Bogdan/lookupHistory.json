@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cardboard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:name_tag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"croptopia:kale"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

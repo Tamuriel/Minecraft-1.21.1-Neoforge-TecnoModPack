@@ -1,0 +1,6 @@
+#Enable verbose debug logs for Astruct (spammy).
+debug_logs = false
+#Max structure placement steps processed per server tick.
+# Default: 10
+# Range: 1 ~ 10000
+max_placements_per_tick = 10

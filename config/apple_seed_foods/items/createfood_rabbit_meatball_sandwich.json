@@ -1,0 +1,8 @@
+{
+  "source_item": "createfood:rabbit_meatball_sandwich",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "grains": 0.04
+  }
+}

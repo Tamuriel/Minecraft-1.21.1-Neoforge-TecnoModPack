@@ -1,0 +1,12 @@
+{
+  "source_item": "aquaculturedelight:fish_and_chips",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0026,
+    "fruits": 0.0102,
+    "proteins": 0.015,
+    "vegetables": 0.0351,
+    "grains": 0.01
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "source_item": "minecolonies:spicy_grilled_chicken",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "proteins": 0.02
+  }
+}

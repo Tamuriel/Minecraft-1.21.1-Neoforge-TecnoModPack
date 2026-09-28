@@ -1,0 +1,10 @@
+{
+  "source_item": "createfood:chorus_fruit_ice_cream_stick",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.02,
+    "fruits": 0.08,
+    "vegetables": 0.04
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_item": "aquaculturedelight:tuna_spaghetti",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.1613,
+    "fruits": 0.6451,
+    "proteins": 0.01,
+    "vegetables": 0.3326
+  }
+}

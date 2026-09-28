@@ -1,0 +1,34 @@
+{
+  "minecraft:deep_cold_ocean": [
+    "upgrade_aquatic:thrasher"
+  ],
+  "minecraft:cold_ocean": [
+    "upgrade_aquatic:thrasher",
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:frozen_ocean": [
+    "upgrade_aquatic:thrasher"
+  ],
+  "hybrid_aquatic:deep_warm_ocean": [
+    "upgrade_aquatic:thrasher",
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:ocean": [
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:deep_ocean": [
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:lukewarm_ocean": [
+    "upgrade_aquatic:thrasher",
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:warm_ocean": [
+    "upgrade_aquatic:thrasher",
+    "upgrade_aquatic:great_thrasher"
+  ],
+  "minecraft:deep_lukewarm_ocean": [
+    "upgrade_aquatic:thrasher",
+    "upgrade_aquatic:great_thrasher"
+  ]
+}

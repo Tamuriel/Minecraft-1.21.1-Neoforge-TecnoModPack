@@ -1,0 +1,8 @@
+{
+  "source_item": "createfood:apple_slice",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "fruits": 0.01
+  }
+}

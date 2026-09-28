@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:raw_pasta"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hybrid_aquatic:raw_fish_meat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:millstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:wheat_flour"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:dough"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:bread_slice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:bread_crumbs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"hybrid_aquatic:tetra"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

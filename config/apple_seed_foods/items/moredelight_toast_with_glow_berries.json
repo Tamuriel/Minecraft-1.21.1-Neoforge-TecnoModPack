@@ -1,0 +1,10 @@
+{
+  "source_item": "moredelight:toast_with_glow_berries",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.002,
+    "fruits": 0.015,
+    "grains": 0.01
+  }
+}

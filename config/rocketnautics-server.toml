@@ -1,0 +1,107 @@
+#Torque strength of the Gyrodyne (CMG) in stabilizing and reorienting ships
+# Default: 100.0
+# Range: 1.0 ~ 1000000.0
+gyrodyneStrength = 100.0
+
+[Thrusters]
+	#Maximum fuel consumption in mB/tick
+	# Default: 40
+	# Range: 1 ~ 1000
+	maxFuelConsumption = 40
+	#Flow threshold for full ignition (mB/tick)
+	# Default: 5
+	# Range: 1 ~ 100
+	ignitionFlow = 5
+	#Flow threshold for pre-ignition steam phase (mB/tick)
+	# Default: 2
+	# Range: 1 ~ 100
+	steamMinFlow = 2
+	#Maximum speed in m/s entities can reach in space before drag kicks in
+	# Default: 80
+	# Range: 0 ~ 320
+	entitySpeedLimit = 80
+	#Enable debug logging for engine fuel and thrust (can cause spam)
+	enableEngineDebugLogging = false
+	#Allow engine thrust to exceed standard limits (up to 5000N)
+	brokenBarrier = false
+	#Speed in blocks/second (m/s) at which a ship breaks the sound barrier and triggers a sonic boom
+	# Default: 166.0
+	# Range: 1.0 ~ 500.0
+	sonicBoomSpeedThreshold = 166.0
+
+[Jetpack]
+	#Acceleration of the jetpack
+	# Default: 0.1
+	# Range: 0.05 ~ 0.5
+	jetpackThrust = 0.1
+	#Maximum consumption per tick of jetpack fuel
+	# Default: 10
+	# Range: 1 ~ 100
+	jetpackThrustConsumption = 5
+	#Base consumption per tick of pressurized air while leg thrusters are active
+	# Default: 2
+	# Range: 1 ~ 100
+	legThrusterBaseConsumption = 2
+	#Fraction of the jetpack's acceleration
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	legThrusterThrustFactor = 0.8
+
+[Space]
+	#Selects the shape of planets in the sky:
+	# - CUBE: Classic Minecraft cube-shaped planets.
+	# - SPHERE: Smooth sphere-shaped planets.
+	#Allowed Values: CUBE, SPHERE
+	planetShape = "CUBE"
+
+[TankPressure]
+	#Enable pressure mechanics and high-altitude overpressure explosions for Create fluid tanks
+	tankPressureEnabled = true
+	#Maximum safe pressure in bars before tanks enter critical overpressure
+	# Default: 5.0
+	# Range: 1.0 ~ 50.0
+	maxTankPressure = 5.0
+	#Altitude (Y coordinate) above which critical tank overpressure triggers a catastrophic explosion
+	# Default: 500.0
+	# Range: 0.0 ~ 100000.0
+	tankExplosionAltitude = 500.0
+
+[FuelMass]
+	#Enable dynamic fuel mass for Create fluid tanks on ships (fluids add mass to the ship and affect physics/center of mass)
+	fuelMassEnabled = true
+	#Multiplier applied to the total fuel mass on ships (1.0 = normal mass, 0.0 = completely weightless fuel). Allows players who don't want heavy fuel to disable its weight.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	massMultiplier = 1.0
+	#Base mass units added per bucket (1000 mB) of fluid in a tank for standard fluids like water (default 1.0)
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	fuelMassPerBucket = 1.0
+	#Mass units added per bucket (1000 mB) of lava (dense molten rock, default 3.0)
+	# Default: 3.0
+	# Range: 0.0 ~ 30.0
+	lavaMassPerBucket = 3.0
+	#Mass units added per bucket (1000 mB) of heavy fuels / diesel / napalm / crude oil / fuel (default 0.6)
+	# Default: 0.6
+	# Range: 0.0 ~ 20.0
+	heavyFuelMassPerBucket = 0.6
+	#Mass units added per bucket (1000 mB) of rocket fuels / kerosene / gasoline / naphtha (default 0.5)
+	# Default: 0.5
+	# Range: 0.0 ~ 20.0
+	rocketFuelMassPerBucket = 0.5
+
+[TelemetryServer]
+	#Enable the built-in HTTP telemetry and ephemeris server for external applications and science programs
+	enabled = false
+	#IP address to bind the telemetry HTTP server to (e.g. 127.0.0.1 for local/proxy, 0.0.0.0 for public)
+	bindAddress = "127.0.0.1"
+	#TCP port for the telemetry HTTP server
+	# Default: 8085
+	# Range: 1024 ~ 65535
+	port = 8085
+	#Optional Bearer authorization token. Leave empty to allow unauthenticated access.
+	authToken = ""
+	#Frequency in server ticks at which world telemetry snapshots are refreshed
+	# Default: 1
+	# Range: 1 ~ 100
+	snapshotIntervalTicks = 1

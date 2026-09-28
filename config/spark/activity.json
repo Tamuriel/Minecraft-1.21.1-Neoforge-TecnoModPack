@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789657590835,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1jBL99V64E"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789656061457,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ObxH0krNPb"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789643247890,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wDEKvVnsUf"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789643110303,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Jorjik\\AppData\\Roaming\\.minecraft\\versions\\Bogdan\u0027s Return\\config\\spark\\profile-2026-09-17_21.05.10.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789642872037,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3tfwSVFUrr"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789570709572,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MZJjE5dORX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tamuriel",
+      "uniqueId": "4cf82481-9088-4bdf-9b0c-5661807beaa1"
+    },
+    "time": 1789570402381,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NAxOGkT8qO"
+    }
+  }
+]

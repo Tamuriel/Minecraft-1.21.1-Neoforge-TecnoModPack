@@ -1,0 +1,10 @@
+{
+  "source_item": "delightfulcreators:incomplete_pasta_dish",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.1613,
+    "fruits": 0.6451,
+    "vegetables": 0.3226
+  }
+}

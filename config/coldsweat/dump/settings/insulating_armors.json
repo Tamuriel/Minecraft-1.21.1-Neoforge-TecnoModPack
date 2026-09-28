@@ -1,0 +1,366 @@
+{
+  "minecraft:leather_chestplate": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather_chestplate"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 7.0,
+        "heat": 7.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "d0e0e7ea-b597-42cf-b557-db79e1c1b60e"
+    }
+  ],
+  "cold_sweat:goat_fur_helmet": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur_helmet"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 10.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "419335d5-f9b3-44e6-b0d6-885a606556ab"
+    }
+  ],
+  "minecraft:leather_boots": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather_boots"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 5.0,
+        "heat": 5.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "d41fb08f-17dc-428c-a0b2-7a79dc69b7af"
+    }
+  ],
+  "minecraft:leather_leggings": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather_leggings"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 6.0,
+        "heat": 6.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "b54ad398-113d-477e-8e97-437d7bfa3ebb"
+    }
+  ],
+  "cold_sweat:chameleon_helmet": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_helmet"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "value": 10.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "b5c970eb-40d1-44e4-9c83-0a0c112f7e3d"
+    }
+  ],
+  "cold_sweat:chameleon_chestplate": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_chestplate"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "value": 14.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "1aaa15e1-624e-4069-8aee-2a53268ee82e"
+    }
+  ],
+  "cold_sweat:goat_fur_chestplate": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur_chestplate"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 14.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "512fe022-82ac-4dda-b764-ef4d301f942a"
+    }
+  ],
+  "cold_sweat:hoglin_boots": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_boots"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 10.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "98bdfeca-a1e7-4377-adaf-ed7b59d94efe"
+    }
+  ],
+  "cold_sweat:goat_fur_boots": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur_boots"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 10.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "fae1cdae-777a-441a-8953-e65894e36643"
+    }
+  ],
+  "cold_sweat:hoglin_chestplate": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_chestplate"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 14.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "e4577bb7-0d4b-4e4f-86f4-353cf241205b"
+    }
+  ],
+  "cold_sweat:hoglin_leggings": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_leggings"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 12.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "06f282bc-e7b3-4abf-854d-f5f2402d5ff4"
+    }
+  ],
+  "create:netherite_backtank": [
+    {
+      "hint": {
+        "key": "tooltip.hint.create_backtank"
+      },
+      "attributes": {
+        "cold_sweat:heat_dampening": [
+          {
+            "name": "cs:netherite_diving_set_bonus",
+            "amount": 1.0,
+            "operation": "add_value"
+          }
+        ]
+      },
+      "immune_temp_modifiers": {
+        "cold_sweat:water": 1.0
+      },
+      "item": {
+        "components": {
+          "create:banktank_air": "1:"
+        },
+        "items": [
+          "create:netherite_backtank"
+        ]
+      },
+      "type": "armor",
+      "entity": {
+        "equipment": {
+          "feet": {
+            "items": {
+              "require": [
+                "create:netherite_diving_boots",
+                "minecraft:netherite_boots"
+              ]
+            }
+          },
+          "head": {
+            "items": [
+              "create:netherite_diving_helmet"
+            ]
+          },
+          "legs": {
+            "items": [
+              "minecraft:netherite_leggings"
+            ]
+          }
+        },
+        "entities": [
+          "*"
+        ]
+      },
+      "required_mods": [
+        "create"
+      ],
+      "config_type": "json",
+      "id": "0c01448d-f6a8-4c65-94e9-242dee033059",
+      "registry_name": "cold_sweat:item/insulator",
+      "registry_key": "cold_sweat:create/netherite_backtank"
+    }
+  ],
+  "minecraft:leather_helmet": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather_helmet"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 5.0,
+        "heat": 5.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "394b6fbc-7f6a-4c47-ade4-5ede976fbd3a"
+    }
+  ],
+  "cold_sweat:hoglin_helmet": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_helmet"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 10.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "4e9c05c2-9595-403b-9841-d12a1272ea9c"
+    }
+  ],
+  "cold_sweat:goat_fur_leggings": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur_leggings"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "cold": 12.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "b9d885b5-d447-4c77-9440-39142b87dba2"
+    }
+  ],
+  "cold_sweat:chameleon_leggings": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_leggings"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "value": 12.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "8d13426c-919b-498e-88ea-8dcf71b6fa28"
+    }
+  ],
+  "cold_sweat:chameleon_boots": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_boots"
+          ]
+        }
+      },
+      "type": "armor",
+      "insulation": {
+        "value": 10.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "7046f594-f2f2-4df9-8632-3fb7b96e165c"
+    }
+  ]
+}

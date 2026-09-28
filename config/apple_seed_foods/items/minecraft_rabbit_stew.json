@@ -1,0 +1,12 @@
+{
+  "source_item": "minecraft:rabbit_stew",
+  "comment": "Edit this file to add custom nutrition values",
+  "auto_calculated": false,
+  "nutritions": {
+    "sugars": 0.0013,
+    "fruits": 0.0051,
+    "proteins": 0.02,
+    "vegetables": 0.0526,
+    "grains": 0.005
+  }
+}
