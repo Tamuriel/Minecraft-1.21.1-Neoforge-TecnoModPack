@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:netherite_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"rocketnautics:space_helmet","components":{"cold_sweat:armor_insulation":{"insulation":[]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"rocketnautics:jetpack","components":{"rocketnautics:jetpack_fuel":{"id":"minecraft:lava","amount":7995},"cold_sweat:armor_insulation":{"insulation":[]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"rocketnautics:copper_leg_thrusters","components":{"cold_sweat:armor_insulation":{"insulation":[]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -98,6 +99,5 @@
   {"ingredient":{"id":"minecolonies:raw_pumpkin_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"biomeswevegone:green_apple_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"delightfulcreators:incomplete_shepherds_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"farmersdelight:shepherds_pie_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"delightfulcreators:incomplete_pumpkin_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"farmersdelight:shepherds_pie_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -70,7 +70,7 @@ environmentDegradationRate = 0.1
 	#Enables / disables emissions from this source
 	HostileMobBurning = true
 	#Enables / disables emissions from this source
-	PlayerEating = true
+	PlayerEating = false
 	#Enables / disables emissions from this source
 	PlayerBurning = true
 	#Enables / disables emissions from this source
