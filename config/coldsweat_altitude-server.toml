@@ -83,6 +83,14 @@
 
 
 
+
+
+
+
+
+
+
+
 # Enable extra diagnostic log entries for altitude and shelter transitions.
 debugLogging = false
 
