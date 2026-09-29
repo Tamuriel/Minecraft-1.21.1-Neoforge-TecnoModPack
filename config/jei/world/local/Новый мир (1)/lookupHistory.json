@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:tinted_glass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rocketnautics:space_helmet","components":{"cold_sweat:armor_insulation":{"insulation":[]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:pasta_plate_fish_tomato_sauce"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:chocolate_sweet_roll_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_cream_chocolate_sweet_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_cream_chocolate_sweet_roll_sweet_berry"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cooked_beef"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_jam_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:chorus_fruit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:chorus_fruit_slice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:chorus_fruit_cream_frosting_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:chorus_fruit_cream_frosting_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:raw_chocolate_sweet_roll_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_cream_mini_waffle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_cream_mini_waffle_sweet_berry"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:beef_bun_cheese_onion_bacon_lettuce"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -321,6 +321,38 @@
     "maxWaterDepth": 131,
     "implosionChance": 0.22
   },
+  "aeroworks:control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:gyroscope": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:joystick": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "aeroworks:mechanical_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:stepper_servo": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "alexscaves:abyssal_altar": {
     "maxWaterDepth": 92,
     "implosionChance": 0.45
@@ -1847,6 +1879,10 @@
   },
   "aquaculture:worm_farm": {
     "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "ballastmod:ballast_stones": {
+    "maxWaterDepth": 10,
     "implosionChance": 0.85
   },
   "bellsandwhistles:andesite_bogie_steps": {

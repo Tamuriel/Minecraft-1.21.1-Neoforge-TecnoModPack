@@ -91,6 +91,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Enable extra diagnostic log entries for altitude and shelter transitions.
 debugLogging = false
 
@@ -391,11 +409,11 @@ actionbarMessage = "This is space..."
 # How long this band's action-bar message remains visible, in ticks.
 actionbarDisplayTicks = 100
 # Item tag whose equipped pieces reduce this band's temperature effect.
-protectionTag = "#space:all_space_sets"
+protectionTag = "space:all_space_sets"
 # Minimum tagged armour pieces needed before protection applies.
 requiredPieces = 4
 # Reduction supplied by each qualifying armour piece.
-protectionReductionPerPiece = 0.25
+protectionReductionPerPiece = 1
 # Number of qualifying pieces required for full protection.
 fullProtectionPieces = 4
 # Whether enclosed cover reduces this band's temperature effect.
