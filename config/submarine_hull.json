@@ -12113,6 +12113,14 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createfood:alfredo_sauce_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createfood:alfredo_sauce_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cheesecake": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -12209,7 +12217,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12217,7 +12233,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12225,7 +12249,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_cupcake_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_cream_cupcake_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12233,7 +12265,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12253,11 +12293,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_sweet_roll_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_cream_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12301,7 +12353,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_jam_chocolate_donut_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:apple_jam_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:apple_jam_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12333,7 +12393,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:apple_trifle_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createfood:bacon_calzone_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:bacon_calzone_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12441,6 +12509,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:beef_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:beef_meatball_sandwich_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -12449,7 +12521,59 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:beef_rice_bowl_block": {
+  "createfood:beef_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:beef_rice_bowl_kelp_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12793,7 +12917,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12801,7 +12933,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12809,7 +12949,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_chocolate_sweet_roll_sweet_berry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_chocolate_sweet_roll_sweet_berry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12817,11 +12965,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_dark_chocolate_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12845,7 +13005,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12853,7 +13021,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_cream_sweet_roll_sweet_berry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12897,7 +13073,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_jam_chocolate_donut_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_jam_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:berry_jam_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12925,6 +13109,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:berry_pie": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -12945,11 +13133,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:berry_trifle_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createfood:black_gelatin_dessert_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:black_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:black_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -12973,9 +13169,17 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:blue_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:blue_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
+  },
+  "createfood:bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "createfood:bowl_block": {
     "maxWaterDepth": 23,
@@ -12989,11 +13193,11 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:breakfast_bar_plate_block": {
+  "createfood:bread_pudding_bowl_honey_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:breakfast_plate_block": {
+  "createfood:breakfast_bar_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13002,6 +13206,10 @@
     "implosionChance": 0.85
   },
   "createfood:brown_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:brown_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13021,11 +13229,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:butterscotch_chip_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:butterscotch_chip_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13045,6 +13261,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -13057,7 +13277,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:butterscotch_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13065,7 +13293,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_dark_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:butterscotch_dark_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13081,6 +13317,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_marshmallow_stick_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -13089,7 +13329,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:butterscotch_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:butterscotch_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:butterscotch_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13098,6 +13346,10 @@
     "implosionChance": 0.85
   },
   "createfood:butterscotch_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:butterscotch_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13141,11 +13393,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:caramel_chip_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:caramel_chip_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13165,6 +13425,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -13177,7 +13441,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:caramel_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13185,7 +13457,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_dark_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:caramel_dark_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13201,6 +13481,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_marshmallow_stick_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -13209,7 +13493,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:caramel_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:caramel_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:caramel_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13218,6 +13510,10 @@
     "implosionChance": 0.85
   },
   "createfood:caramel_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:caramel_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13234,6 +13530,10 @@
     "implosionChance": 0.85
   },
   "createfood:cheese_calzone_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cheese_calzone_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13353,6 +13653,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chicken_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chicken_cheeseburger_bacon_lettuce_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -13377,7 +13681,59 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:chicken_rice_bowl_block": {
+  "createfood:chicken_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chicken_rice_bowl_kelp_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -13417,6 +13773,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -13437,6 +13797,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -13446,6 +13810,10 @@
     "implosionChance": 0.85
   },
   "createfood:chocolate_chocolate_pastry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_chocolate_pastry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14093,7 +14461,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14101,11 +14477,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_cream_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_cream_cupcake_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_cream_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14125,7 +14513,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_cream_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_cupcake_base_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_cupcake_base_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14141,7 +14537,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_donut_base_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_donut_sugar_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_donut_sugar_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14156,6 +14560,14 @@
   "createfood:chocolate_fudge_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
+  },
+  "createfood:chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_ganache_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "createfood:chocolate_ice_cream_block": {
     "maxWaterDepth": 300,
@@ -14201,7 +14613,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_pastry_base_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_pastry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_pastry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14221,7 +14641,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chocolate_sweet_roll_base_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chocolate_toast_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_truffle_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chocolate_truffle_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14238,6 +14670,10 @@
     "implosionChance": 0.85
   },
   "createfood:chorus_fruit_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14565,7 +15001,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14573,7 +15017,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14581,7 +15033,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_chocolate_sweet_roll_chorus_fruit_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_chocolate_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_chocolate_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14589,11 +15049,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_dark_chocolate_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14617,7 +15089,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_sweet_roll_chorus_fruit_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_sweet_roll_chorus_fruit_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14625,7 +15105,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_cream_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14669,7 +15157,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_jam_chocolate_donut_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_jam_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_jam_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -14697,6 +15193,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:chorus_fruit_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:chorus_fruit_pie": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -14715,6 +15215,10 @@
   },
   "createfood:chorus_fruit_popsicle_plate_block": {
     "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:chorus_fruit_trifle_bottle_block": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:cinnamon_sweet_roll_base_plate_block": {
@@ -15093,7 +15597,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15101,7 +15613,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15109,7 +15629,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_chocolate_sweet_roll_chorus_fruit_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_chocolate_sweet_roll_glow_berry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_chocolate_sweet_roll_glow_berry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15117,7 +15645,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_chocolate_sweet_roll_sweet_berry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_chocolate_sweet_roll_sweet_berry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15125,11 +15661,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_dark_chocolate_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15158,6 +15706,10 @@
     "implosionChance": 0.85
   },
   "createfood:cream_pastry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_pastry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15193,7 +15745,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_sweet_roll_chorus_fruit_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_sweet_roll_glow_berry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_sweet_roll_glow_berry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15201,7 +15761,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cream_sweet_roll_sweet_berry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15210,6 +15778,10 @@
     "implosionChance": 0.85
   },
   "createfood:cupcake_base_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:cupcake_base_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15233,6 +15805,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:cyan_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:cyan_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -15249,11 +15825,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:dark_chocolate_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:dark_chocolate_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:dark_chocolate_chip_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:dark_chocolate_chip_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15273,6 +15857,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:dark_chocolate_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:dark_chocolate_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -15285,6 +15873,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:dark_chocolate_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:dark_chocolate_fudge_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -15292,6 +15884,14 @@
   "createfood:dark_chocolate_fudge_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
+  },
+  "createfood:dark_chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:dark_chocolate_ganache_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "createfood:dark_chocolate_marshmallow_stick_plate_block": {
     "maxWaterDepth": 23,
@@ -15301,7 +15901,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:dark_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:dark_chocolate_toast_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:dark_chocolate_truffle_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:dark_chocolate_truffle_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15309,7 +15921,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:donut_base_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:donut_sugar_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:donut_sugar_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15429,11 +16049,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:fish_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:fish_chowder_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "createfood:fish_chowder_bowl_bacon_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:fish_chowder_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_chowder_bowl_croutons_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15461,7 +16093,59 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:fish_rice_bowl_block": {
+  "createfood:fish_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:fish_rice_bowl_kelp_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15485,7 +16169,7 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:fried_egg_hash_brown_sandwich_plate_block": {
+  "createfood:fried_egg_hash_browns_sandwich_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15506,6 +16190,10 @@
     "implosionChance": 0.85
   },
   "createfood:gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15534,6 +16222,10 @@
     "implosionChance": 0.85
   },
   "createfood:glow_berry_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15861,7 +16553,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15869,7 +16569,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15877,7 +16585,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_chocolate_sweet_roll_glow_berry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_chocolate_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_chocolate_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15885,11 +16601,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_dark_chocolate_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15913,7 +16641,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_sweet_roll_glow_berry_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_sweet_roll_glow_berry_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15921,7 +16657,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_cream_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15957,7 +16701,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_jam_chocolate_donut_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_jam_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:glow_berry_jam_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -15985,6 +16737,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:glow_berry_pie": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -16005,11 +16761,27 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:glow_berry_trifle_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createfood:gravy_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createfood:gravy_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "createfood:gray_gelatin_dessert_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:gray_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:gray_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16022,6 +16794,10 @@
     "implosionChance": 0.85
   },
   "createfood:green_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:green_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16105,15 +16881,11 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:hash_brown_fried_egg_plate_block": {
+  "createfood:hash_browns_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:hash_brown_plate_block": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "createfood:hash_brown_toast_plate_block": {
+  "createfood:hash_browns_plate_fried_egg_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16129,11 +16901,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:hollow_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:hollow_dark_chocolate_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:hollow_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:hollow_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:hollow_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16149,7 +16933,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:honeyed_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:honeyed_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:honeyed_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16157,7 +16949,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:honeyed_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:honeyed_chocolate_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:honeyed_chocolate_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16165,7 +16965,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:honeyed_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:honeyed_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:honeyed_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16177,11 +16985,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:honeyed_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:honeyed_pastry_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:honeyed_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:honeyed_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:honeyed_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16365,6 +17185,14 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:kelp_soup_bowl_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:large_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:leather_soup_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -16381,6 +17209,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:light_blue_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:light_blue_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -16393,6 +17225,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:light_gray_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:light_gray_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -16402,6 +17238,10 @@
     "implosionChance": 0.85
   },
   "createfood:lime_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:lime_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16429,7 +17269,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:macaroni_bowl_cheese_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:macaroni_bowl_cheese_sausage_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:macaroni_bowl_cheese_tomato_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16445,6 +17293,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:magenta_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:magenta_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -16457,7 +17309,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:marshmallow_butterscotch_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:marshmallow_caramel_fudge_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:marshmallow_caramel_fudge_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16465,7 +17325,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:marshmallow_chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:marshmallow_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:marshmallow_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16477,7 +17345,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:marshmallow_dark_chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:marshmallow_dark_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:marshmallow_dark_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16501,11 +17377,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:marshmallow_toffee_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:marshmallow_white_chocolate_fudge_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:marshmallow_white_chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:marshmallow_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:marshmallow_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16521,11 +17409,55 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:mashed_potatoes_bowl_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:mashed_potatoes_bowl_mushroom_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:mashed_potatoes_bowl_onion_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_bowl_sausage_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:mashed_potatoes_bowl_sour_cream_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mashed_potatoes_plate_mushroom_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16625,7 +17557,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_chocolate_cupcake_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_chocolate_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_cream_chocolate_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16633,7 +17573,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_cream_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16641,7 +17589,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_cupcake_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_cream_cupcake_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16649,7 +17605,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_dark_chocolate_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_cream_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16669,11 +17633,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_sweet_roll_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_cream_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_cream_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_cream_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16717,7 +17693,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:melon_jam_chocolate_donut_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:melon_jam_donut_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_jam_donut_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16730,6 +17714,10 @@
     "implosionChance": 0.05
   },
   "createfood:melon_milkshake_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createfood:melon_trifle_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -16785,7 +17773,59 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:mixed_salad_beetroot_carrot_small_bowl_block": {
+  "createfood:mixed_salad_beetroot_carrot_large_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mixed_salad_plate_rice_mushroom_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16798,6 +17838,10 @@
     "implosionChance": 0.85
   },
   "createfood:muffin_base_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:muffin_base_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16825,15 +17869,31 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:mushroom_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:mushroom_cream_soup_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
+  },
+  "createfood:mushroom_cream_soup_bowl_bacon_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
   },
   "createfood:mushroom_cream_soup_bowl_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "createfood:mushroom_cream_soup_bowl_cheese_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mushroom_cream_soup_bowl_croutons_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mushroom_cream_soup_bowl_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16873,7 +17933,7 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:mushroom_rice_bowl_block": {
+  "createfood:mushroom_rice_bowl_kelp_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16901,6 +17961,66 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:mutton_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_rice_bowl_kelp_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:mutton_sandwich_beetroot_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -16914,6 +18034,14 @@
     "implosionChance": 0.05
   },
   "createfood:mutton_stew_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_stew_bowl_croutons_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:mutton_stew_bowl_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16934,6 +18062,10 @@
     "implosionChance": 0.85
   },
   "createfood:nacho_bowl_beef_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:nacho_bowl_beef_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -16969,6 +18101,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:onion_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:onion_pizza": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -16989,9 +18125,49 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:orange_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:orange_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
+  },
+  "createfood:panna_cotta_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createfood:panna_cotta_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:panna_cotta_bowl_caramel_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:panna_cotta_bowl_chocolate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:panna_cotta_bowl_fruit_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_alfredo_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_bacon_alfredo_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_bacon_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_bacon_tomato_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
   },
   "createfood:pasta_plate_beef_meatballs_block": {
     "maxWaterDepth": 23,
@@ -17005,11 +18181,23 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:pasta_plate_butter_cheese_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_cheese_alfredo_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:pasta_plate_cheese_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "createfood:pasta_plate_cheese_tomato_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_chicken_cut_alfredo_sauce_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17033,11 +18221,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:pasta_plate_fish_alfredo_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:pasta_plate_fish_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "createfood:pasta_plate_fish_tomato_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_mushroom_alfredo_sauce_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17069,6 +18265,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:pasta_plate_sausage_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:pasta_plate_slime_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -17093,7 +18293,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:pasta_plate_vegetable_meatballs_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pasta_plate_vegetable_meatballs_tomato_sauce_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:pastry_base_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pastry_base_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17114,6 +18326,10 @@
     "implosionChance": 0.85
   },
   "createfood:pink_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pink_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17149,11 +18365,75 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:pork_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_rice_bowl_kelp_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:pork_stew_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
   "createfood:pork_stew_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_stew_bowl_croutons_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:pork_stew_bowl_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17181,11 +18461,23 @@
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
+  "createfood:potato_cream_soup_bowl_bacon_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:potato_cream_soup_bowl_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "createfood:potato_cream_soup_bowl_cheese_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:potato_cream_soup_bowl_croutons_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:potato_cream_soup_bowl_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17229,10 +18521,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "createfood:pumpkin_pie_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
   "createfood:pumpkin_pie_filling_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -17261,6 +18549,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:purple_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:purple_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -17273,11 +18565,71 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:rabbit_calzone_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:rabbit_meatball_sandwich_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
   "createfood:rabbit_meatball_stick_3_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_gravy_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_gravy_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_gravy_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_gravy_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_mashed_potatoes_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_rice_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_rice_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_rice_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_plate_rice_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rabbit_rice_bowl_kelp_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17445,15 +18797,39 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:red_gelatin_dessert_slice_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:red_gelatin_mix_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
+  },
+  "createfood:rice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rice_plate_carrot_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rice_plate_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rice_plate_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
   },
   "createfood:rice_pudding_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
   "createfood:rice_pudding_bowl_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:rice_pudding_bowl_honey_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17502,6 +18878,10 @@
     "implosionChance": 0.85
   },
   "createfood:sausage_calzone_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:sausage_calzone_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17629,7 +19009,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:scrambled_eggs_plate_cheese_bacon_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:scrambled_eggs_plate_cheese_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:scrambled_eggs_plate_cheese_sausage_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:scrambled_eggs_plate_cheese_tomato_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17657,13 +19049,17 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:slime_block": {
+  "createfood:skim_milk_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
-  "createfood:small_bowl_block": {
-    "maxWaterDepth": 23,
+  "createfood:skim_milk_bottle_block": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "createfood:slime_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "createfood:small_plate_block": {
     "maxWaterDepth": 23,
@@ -17717,6 +19113,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:sweet_roll_base_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:sweet_roll_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -17733,11 +19133,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:toast_fried_egg_plate_block": {
+  "createfood:toast_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "createfood:toast_plate_block": {
+  "createfood:toast_plate_fried_egg_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toast_plate_hash_browns_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toast_plate_hash_browns_fried_egg_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17749,11 +19157,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:toffee_chip_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toffee_chip_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17773,6 +19189,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -17785,7 +19205,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toffee_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17793,7 +19221,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_chocolate_sweet_roll_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_dark_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toffee_dark_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17809,6 +19245,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_marshmallow_stick_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -17817,7 +19257,15 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:toffee_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:toffee_sweet_roll_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toffee_sweet_roll_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17826,6 +19274,10 @@
     "implosionChance": 0.85
   },
   "createfood:toffee_white_chocolate_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:toffee_white_chocolate_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17838,6 +19290,14 @@
     "implosionChance": 0.85
   },
   "createfood:tomato_cream_soup_bowl_cheese_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:tomato_cream_soup_bowl_croutons_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:tomato_cream_soup_bowl_sour_cream_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -17953,9 +19413,53 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:vegetable_burger_lettuce_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_burger_lettuce_tomato_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_burger_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_burger_tomato_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_cheeseburger_lettuce_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_cheeseburger_lettuce_tomato_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_cheeseburger_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_cheeseburger_tomato_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_meatball_sandwich_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:vegetable_meatball_stick_3_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:vegetable_oil_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
+  },
+  "createfood:vegetable_oil_bottle_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "createfood:vegetable_sandwich_beetroot_lettuce_plate_block": {
     "maxWaterDepth": 23,
@@ -18001,11 +19505,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:white_chocolate_chip_chocolate_cookie_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:white_chocolate_chip_chocolate_milkshake_bottle_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "createfood:white_chocolate_chip_cookie_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:white_chocolate_chip_cookie_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -18025,6 +19537,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:white_chocolate_chip_muffin_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:white_chocolate_chip_waffle": {
     "maxWaterDepth": 8,
     "implosionChance": 0.85
@@ -18037,6 +19553,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:white_chocolate_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:white_chocolate_fudge_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -18044,6 +19564,14 @@
   "createfood:white_chocolate_fudge_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
+  },
+  "createfood:white_chocolate_fudge_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:white_chocolate_ganache_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "createfood:white_chocolate_marshmallow_stick_plate_block": {
     "maxWaterDepth": 23,
@@ -18053,7 +19581,19 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "createfood:white_chocolate_pastry_small_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
   "createfood:white_chocolate_toast_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:white_chocolate_truffle_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:white_chocolate_truffle_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
@@ -18062,6 +19602,10 @@
     "implosionChance": 0.85
   },
   "createfood:yellow_gelatin_dessert_slice_plate_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "createfood:yellow_gelatin_dessert_slice_small_plate_block": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },

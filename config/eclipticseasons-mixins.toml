@@ -108,3 +108,8 @@
 		MixinClientLevel = true
 		MixinFullDataToRenderDataTransformer = true
 		MixinQuadTree = true
+
+	[compat.fabric_renderer_indigo]
+		MixinAbstractBlockRenderer = true
+		MixinBlockRenderer = true
+		MixinFabricVanillaModelEncoder = true

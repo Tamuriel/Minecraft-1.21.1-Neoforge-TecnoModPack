@@ -125,9 +125,9 @@
     "grave": true
   },
   "createfood": {
-    "small_bowl": true,
     "consumable_block": true,
     "ration_box": true,
+    "large_bowl": true,
     "generic_display": true,
     "empty_display": true,
     "cloth_sack": true,

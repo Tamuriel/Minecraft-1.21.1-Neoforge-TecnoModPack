@@ -1,0 +1,1513 @@
+{
+  "format_version": 1,
+  "intermediate_potentials": {
+    "alexscaves:pewen_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexscaves:pewen_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexscaves:pewen_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexscaves:thornwood_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexscaves:thornwood_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexscaves:thornwood_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexsmobs:bison_fur": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "alexsmobs:bison_fur_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "aquaculture:gold_fillet_knife": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "aquaculture:gold_fishing_rod": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:aspen_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:aspen_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:aspen_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:baobab_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:baobab_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:baobab_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:blue_enchanted_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:blue_enchanted_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:blue_enchanted_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:blue_glowcane_powder": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cika_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cika_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cika_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cypress_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cypress_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:cypress_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ebony_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ebony_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ebony_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:fir_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:fir_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:fir_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:florus_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:florus_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:florus_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:green_enchanted_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:green_enchanted_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:green_enchanted_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:holly_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:holly_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:holly_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ironwood_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ironwood_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:ironwood_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:jacaranda_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:jacaranda_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:jacaranda_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:mahogany_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:mahogany_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:mahogany_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:maple_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:maple_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:maple_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:palm_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:palm_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:palm_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:palo_verde_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:pine_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:pine_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:pine_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:pink_allium": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:pink_allium_petal_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:rainbow_eucalyptus_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:rainbow_eucalyptus_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:rainbow_eucalyptus_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:redwood_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:redwood_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:redwood_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:rose": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:rose_petal_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:sakura_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:sakura_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:sakura_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:skyris_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:skyris_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:skyris_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:spirit_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:spirit_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:spirit_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:white_allium": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:white_allium_petal_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:white_mangrove_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:white_mangrove_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:white_mangrove_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:willow_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:willow_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:willow_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:witch_hazel_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:witch_hazel_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:witch_hazel_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:zelkova_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:zelkova_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "biomeswevegone:zelkova_wood": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:andesite_pillar": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cinder_flour": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:crushed_raw_gold": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_brick_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_brick_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_brick_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_bricks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_andesite_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_brick_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_brick_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_brick_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_bricks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:cut_deepslate_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:deepslate_pillar": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:framed_glass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:framed_glass_pane": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:horizontal_framed_glass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:iron_sheet": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:layered_andesite": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:layered_deepslate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_andesite": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_andesite_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_andesite_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_deepslate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_deepslate_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:polished_cut_deepslate_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_andesite_brick_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_andesite_brick_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_andesite_brick_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_andesite_bricks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_deepslate_brick_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_deepslate_brick_stairs": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_deepslate_brick_wall": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:small_deepslate_bricks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:tiled_glass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "create:vertical_framed_glass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createdieselgenerators:chip_wood_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createdieselgenerators:chip_wood_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createdieselgenerators:wood_chip": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:apple_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:apple_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:apple_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:apple_pie_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_cream_cake_chorus_fruit": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_cream_cake_glow_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_cream_cake_sweet_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:berry_pie_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:black_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:blue_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:boiled_egg": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:brown_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:butter": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:butter_dough": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:butter_dough_small": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cheese_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cheesecake_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_butterscotch": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_caramel": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_chocolate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_dark_chocolate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_toffee": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_cake_white_chocolate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_chocolate_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chocolate_sugar_dough": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cream_cake_chorus_fruit": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cream_cake_glow_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cream_cake_sweet_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:chorus_fruit_pie_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cloth_filter": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cloth_filter_cacao_mass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cloth_filter_egg": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cocoa_powder": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cookie_cream_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_cake_chorus_fruit": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_cake_glow_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_cheese_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_chocolate_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_pie_chocolate_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_pie_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cream_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:cyan_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:egg_yolk": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:fish_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:fish_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cream_cake_chorus_fruit": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cream_cake_glow_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cream_cake_sweet_berry": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:glow_berry_pie_filling_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:gray_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:green_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:heavy_cream_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:light_blue_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:light_gray_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:lime_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:magenta_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:meat_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:melon_cream_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:melon_cream_frosting_piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:meringue_bowl": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:mushroom_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:mushroom_fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:mushroom_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:mushroom_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:onion_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:orange_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:pink_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:piping_bag": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:pizza_dough": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:pizza_dough_tomato_sauce": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:pressed_cocoa": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:pumpernickel_dough": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:purple_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_apple_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_apple_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_bacon_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_beef_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_berry_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_berry_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_cheese_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_cheese_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chicken_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chocolate_graham_cracker_pie_crust": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chocolate_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chocolate_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chocolate_sweet_roll_base": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chorus_fruit_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_chorus_fruit_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_cream_pie_chocolate_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_cream_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_fish_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_fish_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_fish_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_glow_berry_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_glow_berry_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_graham_cracker_pie_crust": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_meat_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mini_chocolate_graham_cracker_pie_crust": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mini_chocolate_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mini_cream_pie_chocolate_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mini_cream_pie_graham_cracker": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mini_graham_cracker_pie_crust": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mushroom_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mushroom_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mushroom_fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mushroom_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mushroom_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_mutton_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_onion_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_onion_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_pie_crust": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_rabbit_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_calzone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_mushroom_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_roll": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_sausage_roll_cheese": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_spicy_sausage_roll": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_spicy_sausage_roll_cheese": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:raw_spicy_sausages": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:red_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:salt": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:salt_dough": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:salt_dough_small": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:sausage_bacon_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:sausage_fish_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:sausage_mushroom_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:sausage_onion_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:sausage_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:slime_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:smores_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "createfood:yellow_gelatin_dessert_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "farmersdelight:apple_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "farmersdelight:chocolate_pie": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "farmersdelight:sweet_berry_cheesecake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "fruitsdelight:fig_pudding": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "fruitsdelight:pineapple": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "fruitsdelight:pineapple_crate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:fiberboard": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:slab_treated_wood_horizontal": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:slab_treated_wood_packaged": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:slab_treated_wood_vertical": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:stick_treated": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:treated_wood_horizontal": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:treated_wood_packaged": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "immersiveengineering:treated_wood_vertical": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecolonies:butter": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecolonies:creamcheese": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecolonies:large_empty_bottle": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecolonies:large_soy_milk_bottle": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecolonies:large_water_bottle": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:andesite": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:barrel": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:barrier": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:birch_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:birch_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:black_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:blue_dye": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:blue_ice": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:blue_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:bone_meal": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:bowl": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:brown_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:cobbled_deepslate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:cobblestone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:crimson_hyphae": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:crimson_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:crimson_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:cyan_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:deepslate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:glass": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:glass_pane": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:gold_ingot": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:gold_nugget": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:gray_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:green_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:ice": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:iron_ingot": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:light_blue_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:light_gray_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:lime_dye": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:lime_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:magenta_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:milk_bucket": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:mossy_cobblestone": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:netherrack": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:oak_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:oak_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:orange_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:packed_ice": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:pink_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:red_dye": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:red_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:slime_ball": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:snow_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:stick": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:string": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:stripped_crimson_hyphae": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:stripped_warped_hyphae": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:warped_hyphae": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:warped_planks": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:warped_slab": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:white_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "minecraft:yellow_wool": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "upgrade_aquatic:pickerelweed": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "upgrade_aquatic:pickerelweed_block": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "veggiesdelight:carrot_cake": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "veggiesdelight:garlic": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "veggiesdelight:garlic_crate": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "veggiesdelight:vegan_pizza": {
+      "nutrition": null,
+      "effective_saturation": null
+    },
+    "veggiesdelight:zucchini_quiche": {
+      "nutrition": null,
+      "effective_saturation": null
+    }
+  }
+}

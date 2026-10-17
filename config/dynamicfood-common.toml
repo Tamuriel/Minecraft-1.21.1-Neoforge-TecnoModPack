@@ -1,0 +1,130 @@
+[food_calibration]
+	#Enable self-calibrated FoodIndex for resources with known economic profiles.
+	enabled = true
+	#Calibration population: all_survival_economic_resources, configured_tag, or manual.
+	population_scope = "all_survival_economic_resources"
+	#Item tags used when population_scope is configured_tag.
+	population_tags = []
+	#Item IDs selected when population_scope is manual; each item must still be an external calibration candidate.
+	population_items = []
+	#Fallback when food calibration is disabled: vanilla or configured_fallback.
+	disabled_mode = "vanilla"
+	#Minimum number of unique resolved economic resources before rank-only fallback is used.
+	# Default: 16
+	# Range: 1 ~ 1000000
+	min_population = 16
+	#Weight of robust normalized log-economic-cost magnitude. Must sum to one with rank_weight.
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	magnitude_weight = 0.7
+	#Weight of weighted normalized economic rank. Must sum to one with magnitude_weight.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	rank_weight = 0.3
+	# Default: 0.05
+	# Range: 1.0E-6 ~ 0.999998
+	lower_quantile = 0.05
+	# Default: 0.95
+	# Range: 2.0E-6 ~ 0.999999
+	upper_quantile = 0.95
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	coverage_low_threshold = 0.5
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	coverage_medium_threshold = 0.8
+	gameplay_preset = "medium"
+	#FoodIndex hunger anchors use x|nutrition; empty inherits the selected preset.
+	custom_hunger_anchors = []
+	#FoodIndex effective saturation anchors use x|points; empty inherits the selected preset.
+	custom_saturation_anchors = []
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
+	configured_fallback_nutrition = 2.0
+	# Default: 0.0
+	# Range: 0.0 ~ 1000.0
+	configured_fallback_saturation = 0.0
+
+[processing]
+	output_allocation = "quantity"
+
+[fallback]
+	deterministic_mode = "lexicographic"
+
+[fluid_ingredients]
+	#Fluid food profiles use fluid_id|nutrition|effective_saturation|value_unit_mb|food_component|enabled.
+	profiles = []
+
+[dynamics]
+	#Maximum total nutrition bonus per recipe operation, in Minecraft hunger points.
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	max_processing_nutrition_bonus = 10.0
+	#Maximum total effective saturation bonus per recipe operation.
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	max_processing_saturation_bonus = 10.0
+	#Operation-wide nutrition bonus per recipe difficulty level.
+	# Default: 0.8
+	# Range: 0.0 ~ 100.0
+	recipe_complexity_nutrition_bonus_per_level = 0.8
+	#Operation-wide effective saturation bonus per recipe difficulty level.
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	recipe_complexity_saturation_bonus_per_level = 0.5
+	#Maximum automatically-created saturation. Inherited component saturation is never reduced.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	max_automatic_saturation = 20.0
+	#Maximum automatically-created nutrition. Inherited component nutrition is never reduced.
+	# Default: 18.0
+	# Range: 0.0 ~ 1000.0
+	max_automatic_nutrition = 18.0
+	#Absolute effective saturation cap for automatically-created values. Inherited components are preserved.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	max_saturation = 20.0
+	#Nutrition cap for automatically-created values. Inherited components are preserved.
+	# Default: 18.0
+	# Range: 0.0 ~ 1000.0
+	max_hunger = 18.0
+	#preserve_components keeps inherited saturation above the limit; normalize_components scales it down.
+	saturation_overflow_mode = "preserve_components"
+	#Whether dynamic nutrition may replace existing FoodProperties nutrition and saturation.
+	override_existing_food = true
+
+[zero_hunger_food]
+	#Allow configured zero-hunger ingredients to contribute nutrition to recipes.
+	enabled = true
+	#Fallback nutrition contribution for unprofiled zero-hunger edible ingredients.
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	default_contribution = 0.25
+
+[ingredients]
+	#Entries use item_id|nutrition|saturation|difficulty|food_component|enabled. Values are Minecraft nutrition/saturation points; -1 uses the calibrated value.
+	profiles = ["minecraft:wheat|2.0|0.4|1|true|true", "minecraft:sugar|0.25|0.1|1|true|true", "minecraft:cocoa_beans|0.75|0.2|3|true|true"]
+	#Item tags that mark non-edible ingredient items as food components.
+	food_component_tags = ["c:foods", "forge:foods", "c:foods/raw", "c:foods/cooked", "c:foods/fruit", "c:foods/fruits", "c:foods/vegetable", "c:foods/vegetables", "c:foods/leafy_green", "c:foods/bread", "c:foods/dough", "c:foods/doughs", "c:foods/raw_meats", "c:foods/cooked_meats", "c:foods/raw_meats/raw_beef", "c:foods/raw_meats/raw_chicken", "c:foods/raw_meats/raw_mutton", "c:foods/raw_meats/raw_pork", "c:foods/raw_meats/raw_rabbit", "c:foods/raw_fish", "c:foods/cooked_fish", "c:foods/edible_when_placed", "c:meats", "c:fish", "farmersdelight:meals", "farmersdelight:feasts"]
+
+[blacklist]
+	#Item IDs that must never contribute to food values.
+	items = ["minecraft:bowl", "minecraft:glass_bottle", "minecraft:stick", "minecraft:bucket", "minecraft:water_bucket"]
+
+[recipe_types]
+	#Empty means all recipe types are allowed for food-value analysis; otherwise only listed type IDs are used.
+	whitelist = []
+	#Recipe type IDs excluded from food-value analysis and runtime bonuses; resource acquisition discovery is not filtered.
+	blacklist = []
+
+[difficulty]
+	#Recipe overrides use recipe_id|difficulty where difficulty is in [0,5].
+	recipe_overrides = []
+	#Item overrides use item_id|difficulty where difficulty is in [0,5].
+	item_overrides = []
+	#Station overrides use recipe_type_id|difficulty where difficulty is in [0,5].
+	station_overrides = []
+
+[debug]
+	#Enable dynamic food diagnostic logging.
+	enabled = false
