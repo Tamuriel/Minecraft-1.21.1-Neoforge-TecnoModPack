@@ -1,10 +1,10 @@
 ["Async Config"]
-	#Enables parallel processing of entities.
-	disabled = false
 	#Maximum worker threads. -1 = auto.
 	# Default: -1
 	# Range: > -1
 	maxThreads = -1
+	#Enables parallel processing of entities.
+	disabled = false
 	#List of entity IDs or namespaces (*):
 	#  - 'minecraft:zombie' = specific entity
 	#  - 'minecraft:*'      = all entities in namespace

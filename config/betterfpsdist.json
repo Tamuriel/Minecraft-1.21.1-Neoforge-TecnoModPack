@@ -8,7 +8,7 @@
   "horizontalScaling": {
     // The amount by which the chunk render distance sphere is stretched horizontally. 
     // Default:1.0, min 0.05, max 2
-    "horizontalScaling": 1.0
+    "horizontalScaling": 1.18
   },
 
   "affectEntities": {
