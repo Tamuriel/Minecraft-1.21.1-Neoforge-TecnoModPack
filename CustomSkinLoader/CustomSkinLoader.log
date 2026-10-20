@@ -1,42 +1,42 @@
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.0.1
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.1
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\CustomSkinLoader.json
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: version : 15.0.1
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 40
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }]
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2026-10-19 19:28:31] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2026-10-19 19:28:31] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: Loading Tamuriel's profile.
-[2026-10-19 19:28:31] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: 1/1 Try to load profile from 'LittleSkin'.
-[2026-10-19 19:28:31] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Tamuriel.json'.
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 122 , Path: 'C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\caches\9e54e2761792637e625f788f0705f7f4cb78937c' , Expire: 0)
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\caches\9e54e2761792637e625f788f0705f7f4cb78937c'.
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {"username":"Tamuriel","skins":{"default":"9e01fbd48beb637996bca4de61a82a7392e90643850bb0a582046703462fdfd1"},"cape":null}
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: Tamuriel's profile loaded. (2245ms)
-[2026-10-19 19:28:33] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: (SkinUrl: https://littleskin.cn/csl/textures/9e01fbd48beb637996bca4de61a82a7392e90643850bb0a582046703462fdfd1 , Model: default , CapeUrl: null  , Expiry: 1792402143)
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.0.1
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.1
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\CustomSkinLoader.json
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: version : 15.0.1
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 40
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }]
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-10-20 09:31:29] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-10-20 09:31:29] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: Loading Tamuriel's profile.
+[2026-10-20 09:31:29] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: 1/1 Try to load profile from 'LittleSkin'.
+[2026-10-20 09:31:29] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Tamuriel.json'.
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 122 , Path: 'C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\caches\9e54e2761792637e625f788f0705f7f4cb78937c' , Expire: 0)
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Jorjik\AppData\Roaming\.minecraft\versions\Bogdan's Return\CustomSkinLoader\caches\9e54e2761792637e625f788f0705f7f4cb78937c'.
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {"username":"Tamuriel","skins":{"default":"9e01fbd48beb637996bca4de61a82a7392e90643850bb0a582046703462fdfd1"},"cape":null}
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: Tamuriel's profile loaded. (2476ms)
+[2026-10-20 09:31:32] [Tamuriel <d7d6b6b7-d62f-11ef-af44-9c6b00470e68>/INFO] [CustomSkinLoader Core]: (SkinUrl: https://littleskin.cn/csl/textures/9e01fbd48beb637996bca4de61a82a7392e90643850bb0a582046703462fdfd1 , Model: default , CapeUrl: null  , Expiry: 1792452722)
